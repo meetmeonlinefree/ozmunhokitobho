@@ -1,0 +1,40 @@
+{
+  "nomination": {
+    "id": "nom_02",
+    "name": "Классическая таджикская литература",
+    "competition_id": "comp_01",
+    "total_books": 500,
+    "books": [
+      {
+        "id": "book_004",
+        "title": "Поэма В",
+        "author": "Автор 4",
+        "image_url": "https://example.com/images/book4.jpg",
+        "description": "Классическая поэма таджикской литературы",
+        "language": "tg",
+        "year": 1980,
+        "tags": ["поэма", "классика"]
+      },
+      {
+        "id": "book_005",
+        "title": "Роман Г",
+        "author": "Автор 5",
+        "image_url": "https://example.com/images/book5.jpg",
+        "description": "Известный роман таджикской литературы XX века",
+        "language": "tg",
+        "year": 1975,
+        "tags": ["роман", "классика"]
+      },
+      {
+        "id": "book_006",
+        "title": "Сборник стихов Д",
+        "author": "Автор 6",
+        "image_url": "https://example.com/images/book6.jpg",
+        "description": "Сборник классической поэзии Таджикистана",
+        "language": "tg",
+        "year": 1965,
+        "tags": ["поэзия", "классика"]
+      }
+    ]
+  }
+}
