@@ -1,0 +1,27 @@
+{
+  "competitions": [
+    {
+      "id": "comp_01",
+      "name": "Фурӯғи субҳи доноӣ — китоб аст",
+      "description": "Конкурс чтения и литературного творчества",
+      "year": 2025,
+      "nominations": [
+        {
+          "id": "nom_01",
+          "name": "Детская и подростковая литература",
+          "total_books": 200,
+          "books": [
+            {"id": "book_001", "title": "Сказки А", "author": "Автор 1", "cover_url": "link1", "description": "..."},
+            {"id": "book_002", "title": "Стихи Б", "author": "Автор 2", "cover_url": "link2", "description": "..."}
+          ]
+        },
+        {
+          "id": "nom_02",
+          "name": "Классическая таджикская литература",
+          "total_books": 500,
+          "books": []
+        }
+      ]
+    }
+  ]
+}
