@@ -1,0 +1,56 @@
+{
+  "books": [
+    {
+      "id": "book_001",
+      "title": "Сказки А",
+      "author": "Автор 1",
+      "url": "https://example.com/images/book.pdf", 
+      "image_url": "https://example.com/images/book1.jpg",
+      "description": "Короткие сказки для детей",
+      "language": "ru",
+      "year": 2020,
+      "competition_id": "comp_01",
+      "nomination_id": "nom_01",
+      "tags": ["детская литература", "сказки"]
+    },
+    {
+      "id": "book_002",
+      "title": "Стихи Б",
+      "author": "Автор 2",
+      "url": "https://example.com/images/book.pdf",
+      "image_url": "https://example.com/images/book2.jpg",
+      "description": "Сборник стихов для подростков",
+      "language": "ru",
+      "year": 2019,
+      "competition_id": "comp_01",
+      "nomination_id": "nom_01",
+      "tags": ["поэзия", "подростки"]
+    },
+    {
+      "id": "book_003",
+      "title": "Поэма В",
+      "author": "Автор 3",
+      "url": "https://example.com/images/book.pdf",
+      "image_url": "https://example.com/images/book3.jpg",
+      "description": "Классическая поэма таджикской литературы",
+      "language": "tg",
+      "year": 1980,
+      "competition_id": "comp_01",
+      "nomination_id": "nom_02",
+      "tags": ["классическая литература", "поэма"]
+    },
+    {
+      "id": "book_004",
+      "title": "Основы физики",
+      "author": "Автор 4",
+      "url": "https://example.com/images/book.pdf",
+      "image_url": "https://example.com/images/book4.jpg",
+      "description": "Учебник по физике для начинающих",
+      "language": "ru",
+      "year": 2018,
+      "competition_id": "comp_02",
+      "nomination_id": "nom_05",
+      "tags": ["наука", "физика", "учебник"]
+    }
+  ]
+}
