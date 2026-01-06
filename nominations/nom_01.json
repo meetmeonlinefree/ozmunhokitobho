@@ -1,0 +1,40 @@
+{
+  "nomination": {
+    "id": "nom_01",
+    "name": "Детская и подростковая литература",
+    "competition_id": "comp_01",
+    "total_books": 200,
+    "books": [
+      {
+        "id": "book_001",
+        "title": "Сказки А",
+        "author": "Автор 1",
+        "image_url": "https://example.com/images/book1.jpg",
+        "description": "Короткие сказки для детей",
+        "language": "ru",
+        "year": 2020,
+        "tags": ["детская литература", "сказки"]
+      },
+      {
+        "id": "book_002",
+        "title": "Стихи Б",
+        "author": "Автор 2",
+        "image_url": "https://example.com/images/book2.jpg",
+        "description": "Сборник стихов для подростков",
+        "language": "ru",
+        "year": 2019,
+        "tags": ["поэзия", "подростки"]
+      },
+      {
+        "id": "book_003",
+        "title": "Приключения В",
+        "author": "Автор 3",
+        "image_url": "https://example.com/images/book3.jpg",
+        "description": "Весёлые приключения для детей и подростков",
+        "language": "ru",
+        "year": 2021,
+        "tags": ["приключения", "дети"]
+      }
+    ]
+  }
+}
