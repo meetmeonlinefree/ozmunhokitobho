@@ -10,30 +10,13 @@
           "id": "nom_01",
           "name": "Детская и подростковая литература",
           "total_books": 200,
-          "books": [
-            {"id": "book_001", "title": "Сказки А", "author": "Автор 1", "image_url": "https://example.com/images/book1.jpg", "description": "Короткие сказки для детей"},
-            {"id": "book_002", "title": "Стихи Б", "author": "Автор 2", "image_url": "https://example.com/images/book2.jpg", "description": "Сборник стихов для подростков"}
-          ]
+          "nomination_url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/nominations/nom_01.json"
         },
         {
           "id": "nom_02",
           "name": "Классическая таджикская литература",
           "total_books": 500,
-          "books": [
-            {"id": "book_003", "title": "Поэма В", "author": "Автор 3", "image_url": "https://example.com/images/book3.jpg", "description": "Классическая поэма таджикской литературы"}
-          ]
-        },
-        {
-          "id": "nom_03",
-          "name": "Современная таджикская литература",
-          "total_books": 1000,
-          "books": []
-        },
-        {
-          "id": "nom_04",
-          "name": "Мировая литература",
-          "total_books": 3000,
-          "books": []
+          "nomination_url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/nominations/nom_02.json"
         }
       ]
     },
@@ -47,43 +30,13 @@
           "id": "nom_05",
           "name": "Физика и математика",
           "total_books": 150,
-          "books": [
-            {"id": "book_004", "title": "Основы физики", "author": "Автор 4", "image_url": "https://example.com/images/book4.jpg", "description": "Учебник по физике для начинающих"}
-          ]
+          "nomination_url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/nominations/nom_05.json"
         },
         {
           "id": "nom_06",
           "name": "Химия и биология",
           "total_books": 200,
-          "books": []
-        },
-        {
-          "id": "nom_07",
-          "name": "Природоведение и экология",
-          "total_books": 120,
-          "books": []
-        }
-      ]
-    },
-    {
-      "id": "comp_03",
-      "name": "Тоҷикистон — Ватани азизи ман",
-      "description": "Озмуни ҷумҳуриявӣ барои рушди ватандӯстӣ, қобилиятҳои эҷодӣ ва пешниҳоди дидгоҳи ҷавонон нисбат ба Ватан.",
-      "year": 2025,
-      "nominations": [
-        {
-          "id": "nom_08",
-          "name": "Эссе и рассказы о Родине",
-          "total_books": 100,
-          "books": [
-            {"id": "book_005", "title": "Моя Родина", "author": "Автор 5", "image_url": "https://example.com/images/book5.jpg", "description": "Сборник эссе о красоте и культуре Таджикистана"}
-          ]
-        },
-        {
-          "id": "nom_09",
-          "name": "Творческие проекты и исследования",
-          "total_books": 80,
-          "books": []
+          "nomination_url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/nominations/nom_06.json"
         }
       ]
     }
