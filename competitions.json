@@ -51,16 +51,52 @@
       "year": 2025,
       "nominations": [
         {
-          "id": "nom_05",
-          "name": "Физика и математика",
-          "total_books": 150,
-          "nomination_url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/nominations/nom_05.json"
+          "id": "nom_math",
+          "name": "📐 Математика (арифметика, алгебра, геометрия)",
+          "total_books": 300,
+          "nomination_url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/nominations/nom_math.json"
         },
         {
-          "id": "nom_06",
-          "name": "Химия и биология",
+          "id": "nom_physics",
+          "name": "🔭 Физика ва астрономия",
+          "total_books": 250,
+          "nomination_url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/nominations/nom_physics.json"
+        },
+        {
+          "id": "nom_chemistry",
+          "name": "⚗️ Химия",
           "total_books": 200,
-          "nomination_url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/nominations/nom_06.json"
+          "nomination_url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/nominations/nom_chemistry.json"
+        },
+        {
+          "id": "nom_biology",
+          "name": "🌿 Биология (ботаника, зоология, анатомия)",
+          "total_books": 220,
+          "nomination_url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/nominations/nom_biology.json"
+        },
+        {
+          "id": "nom_geography",
+          "name": "🌍 География",
+          "total_books": 180,
+          "nomination_url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/nominations/nom_geography.json"
+        },
+        {
+          "id": "nom_it",
+          "name": "💻 Технологияи иттилоотӣ",
+          "total_books": 260,
+          "nomination_url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/nominations/nom_it.json"
+        },
+        {
+          "id": "nom_ai",
+          "name": "🤖 Зеҳни сунъӣ ва барномасозӣ",
+          "total_books": 190,
+          "nomination_url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/nominations/nom_ai.json"
+        },
+        {
+          "id": "nom_innovation",
+          "name": "🚀 Ихтироъкорӣ ва навоварӣ",
+          "total_books": 150,
+          "nomination_url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/nominations/nom_innovation.json"
         }
       ]
     }
