@@ -17,6 +17,12 @@
           "name": "Классическая таджикская литература",
           "total_books": 500,
           "nomination_url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/nominations/nom_02.json"
+        },
+        {
+          "id": "nom_03",
+          "name": "Классическая таджикская литература3",
+          "total_books": 1500,
+          "nomination_url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/nominations/nom_02.json"
         }
       ]
     },
