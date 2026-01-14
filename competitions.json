@@ -8,21 +8,39 @@
       "nominations": [
         {
           "id": "nom_01",
-          "name": "📚 Детская и подростковая литература",
+          "name": "🧒📖 Адабиёти кӯдакон ва наврасон",
           "total_books": 200,
           "nomination_url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/nominations/nom_01.json"
         },
         {
           "id": "nom_02",
-          "name": "📚 Классическая таджикская литература",
+          "name": "🏛️📜 Адабиёти классикии тоҷик",
           "total_books": 500,
           "nomination_url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/nominations/nom_02.json"
         },
         {
           "id": "nom_03",
-          "name": "📚 Классическая таджикская литература3",
-          "total_books": 1500,
-          "nomination_url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/nominations/nom_02.json"
+          "name": "✨📘 Адабиёти муосири тоҷик",
+          "total_books": 350,
+          "nomination_url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/nominations/nom_03.json"
+        },
+        {
+          "id": "nom_04",
+          "name": "🌍📚 Адабиёти ҷаҳон",
+          "total_books": 800,
+          "nomination_url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/nominations/nom_04.json"
+        },
+        {
+          "id": "nom_05",
+          "name": "✍️📖 Эҷоди назм",
+          "total_books": 400,
+          "nomination_url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/nominations/nom_05.json"
+        },
+        {
+          "id": "nom_06",
+          "name": "🖋️📗 Эҷоди наср",
+          "total_books": 450,
+          "nomination_url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/nominations/nom_06.json"
         }
       ]
     },
