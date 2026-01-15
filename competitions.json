@@ -61,56 +61,56 @@
           "name": "Математика (арифметика, алгебра, геометрия)",
           "icon": "📐",
           "total_books": 300,
-          "nomination_url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/nominations/nom_math.json"
+          "nomination_url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/nominations/nom_07.json"
         },
         {
           "id": "nom_08",
           "name": "Физика ва астрономия",
           "icon": "🔭",
           "total_books": 250,
-          "nomination_url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/nominations/nom_physics.json"
+          "nomination_url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/nominations/nom_08.json"
         },
         {
           "id": "nom_09",
           "name": "Химия",
           "icon": "⚗️",
           "total_books": 200,
-          "nomination_url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/nominations/nom_chemistry.json"
+          "nomination_url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/nominations/nom_09.json"
         },
         {
           "id": "nom_10",
           "name": "Биология (ботаника, зоология, анатомия)",
           "icon": "🌿",
           "total_books": 220,
-          "nomination_url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/nominations/nom_biology.json"
+          "nomination_url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/nominations/nom_10.json"
         },
         {
           "id": "nom_11",
           "name": "География",
           "icon": "🌍",
           "total_books": 180,
-          "nomination_url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/nominations/nom_geography.json"
+          "nomination_url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/nominations/nom_11.json"
         },
         {
           "id": "nom_12",
           "name": "Технологияи иттилоотӣ",
           "icon": "💻",
           "total_books": 260,
-          "nomination_url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/nominations/nom_it.json"
+          "nomination_url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/nominations/nom_12.json"
         },
         {
           "id": "nom_13",
           "name": "Зеҳни сунъӣ ва барномасозӣ",
           "icon": "🤖",
           "total_books": 190,
-          "nomination_url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/nominations/nom_ai.json"
+          "nomination_url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/nominations/nom_13.json"
         },
         {
           "id": "nom_14",
           "name": "Ихтироъкорӣ ва навоварӣ",
           "icon": "🚀",
           "total_books": 150,
-          "nomination_url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/nominations/nom_innovation.json"
+          "nomination_url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/nominations/nom_14.json"
         }
       ]
     },
@@ -125,14 +125,14 @@
           "name": "Номинатсияи оҳангсозӣ-бастакорӣ ва дизайн (аз 18 то 35-сола)",
           "icon": "🎼🎨",
           "total_books": 300,
-          "nomination_url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/nominations/nom_music_design.json"
+          "nomination_url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/nominations/nom_15.json"
         },
         {
           "id": "nom_16",
           "name": "Номинатсияҳои сарояндагӣ, навозандагӣ ва санъати тасвирӣ",
           "icon": "🎤🎻🖌️",
           "total_books": 250,
-          "nomination_url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/nominations/nom_art_music.json"
+          "nomination_url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/nominations/nom_16.json"
         }
       ]
     }
