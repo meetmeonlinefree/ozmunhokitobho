@@ -113,6 +113,28 @@
           "nomination_url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/nominations/nom_innovation.json"
         }
       ]
+    },
+    {
+      "id": "comp_03",
+      "name": "Тоҷикистон - Ватани азизи ман",
+      "description": "Озмуни дарёфти истеъдодҳои нав дар соҳаҳои санъати мусиқӣ, сарояндагӣ, тасвирӣ ва дизайн.",
+      "year": 2026,
+      "nominations": [
+        {
+          "id": "nom_15",
+          "name": "Номинатсияи оҳангсозӣ-бастакорӣ ва дизайн (аз 18 то 35-сола)",
+          "icon": "🎼🎨",
+          "total_books": 300,
+          "nomination_url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/nominations/nom_music_design.json"
+        },
+        {
+          "id": "nom_16",
+          "name": "Номинатсияҳои сарояндагӣ, навозандагӣ ва санъати тасвирӣ",
+          "icon": "🎤🎻🖌️",
+          "total_books": 250,
+          "nomination_url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/nominations/nom_art_music.json"
+        }
+      ]
     }
   ]
 }
