@@ -8,37 +8,43 @@
       "nominations": [
         {
           "id": "nom_01",
-          "name": "🧒📖 \nАдабиёти кӯдакон ва наврасон",
+          "name": "Адабиёти кӯдакон ва наврасон",
+          "icon": "🧒📖",
           "total_books": 200,
           "nomination_url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/nominations/nom_01.json"
         },
         {
           "id": "nom_02",
-          "name": "🏛️📜 \nАдабиёти классикии тоҷик",
+          "name": "Адабиёти классикии тоҷик",
+          "icon": "🏛️📜",
           "total_books": 500,
           "nomination_url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/nominations/nom_02.json"
         },
         {
           "id": "nom_03",
-          "name": "✨📘 \nАдабиёти муосири тоҷик",
+          "name": "Адабиёти муосири тоҷик",
+          "icon": "✨📘",
           "total_books": 350,
           "nomination_url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/nominations/nom_03.json"
         },
         {
           "id": "nom_04",
-          "name": "🌍📚 \nАдабиёти ҷаҳон",
+          "name": "Адабиёти ҷаҳон",
+          "icon": "🌍📚",
           "total_books": 800,
           "nomination_url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/nominations/nom_04.json"
         },
         {
           "id": "nom_05",
-          "name": "✍️📖 \nЭҷоди назм",
+          "name": "Эҷоди назм",
+          "icon": "✍️📖",
           "total_books": 400,
           "nomination_url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/nominations/nom_05.json"
         },
         {
           "id": "nom_06",
-          "name": "🖋️📗 \nЭҷоди наср",
+          "name": "Эҷоди наср",
+          "icon": "🖋️📗",
           "total_books": 450,
           "nomination_url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/nominations/nom_06.json"
         }
