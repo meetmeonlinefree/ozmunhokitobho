@@ -1,0 +1,43 @@
+{
+  "nomination": {
+    "id": "nom_04",
+    "name": "Адабиёти ҷаҳон",
+    "competition_id": "comp_01",
+    "total_books": 200,
+    "books": [
+      {
+        "id": "book_001",
+        "title": "Сказки А",
+        "author": "Автор 1",
+        "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori1.jpg",
+        "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/main/books/1.pdf",
+        "description": "Короткие сказки для детей",
+        "language": "ru",
+        "year": 2020,
+        "tags": ["детская литература", "сказки"]
+      },
+      {
+        "id": "book_002",
+        "title": "Стихи Б",
+        "author": "Автор 2",
+        "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori39.avif",
+        "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/main/books/1.pdf", 
+        "description": "Сборник стихов для подростков",
+        "language": "ru",
+        "year": 2019,
+        "tags": ["поэзия", "подростки"]
+      },
+      {
+        "id": "book_003",
+        "title": "Приключения В",
+        "author": "Автор 3",
+        "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori40.avif",
+        "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/main/books/1.pdf", 
+        "description": "Весёлые приключения для детей и подростков",
+        "language": "ru",
+        "year": 2021,
+        "tags": ["приключения", "дети"]
+      }
+    ]
+  }
+}
