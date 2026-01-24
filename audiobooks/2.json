@@ -1,0 +1,26 @@
+{
+  "audiobooks": [
+    {
+      "id": "1",
+      "title": "Гуфтори 1",
+      "author": "Абулкосими Фирдавси",
+      "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori3.mp3",
+      "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/main/audio_image/guftori1.jpg",
+      "description": "Короткие сказки для детей",
+      "language": "ru",
+      "year": 2020,
+      "tags": ["детская литература", "сказки"]
+    },
+    {
+      "id": "2",
+      "title": "Гуфтори 2",
+      "author": "Абулкосими Фирдавси",
+      "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori4.mp3",
+      "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/main/audio_image/guftori1.jpg",
+      "description": "Описание...",
+      "language": "ru",
+      "year": 2021,
+      "tags": ["сказки"]
+    }
+  ]
+}
