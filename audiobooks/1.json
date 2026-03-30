@@ -2,10 +2,10 @@
   "audiobooks": [
     {
       "id": "1",
-      "title": "Гуфтори 1",
-      "author": "Абулкосими Фирдавси",
+      "title": "КАЙФАР-и ДИЛОВАР МИРЗО / ГУФТОРИ 1",
+      "author": "КАЙФАР-и ДИЛОВАР МИРЗО / ГУФТОРИ 1",
       "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori1.mp3",
-      "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/main/audio_image/guftori1.jpg",
+      "image_url": "https://i.ytimg.com/vi/Area9NSPo90/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4AdQGgALgA4oCDAgAEAEYFiBlKDcwDw==&rs=AOn4CLDftXWUzzY2mNkIwKGBMVPPuTSBJA",
       "description": "Короткие сказки для детей",
       "language": "ru",
       "year": 2020,
@@ -13,10 +13,10 @@
     },
     {
       "id": "2",
-      "title": "Гуфтори 2",
-      "author": "Абулкосими Фирдавси",
+      "title": "КАЙФАР-и ДИЛОВАР МИРЗО / ГУФТОРИ 1",
+      "author": "КАЙФАР-и ДИЛОВАР МИРЗО / ГУФТОРИ 1",
       "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori2.mp3",
-      "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/main/audio_image/guftori1.jpg",
+      "image_url": "https://i.ytimg.com/vi/Area9NSPo90/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4AdQGgALgA4oCDAgAEAEYFiBlKDcwDw==&rs=AOn4CLDftXWUzzY2mNkIwKGBMVPPuTSBJA",
       "description": "Описание...",
       "language": "ru",
       "year": 2021,
