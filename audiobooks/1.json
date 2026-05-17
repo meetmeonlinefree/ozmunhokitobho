@@ -2,25 +2,36 @@
   "audiobooks": [
     {
       "id": "1",
-      "title": "КАЙФАР-и ДИЛОВАР МИРЗО / ГУФТОРИ 1",
-      "author": "КАЙФАР-и ДИЛОВАР МИРЗО / ГУФТОРИ 1",
-      "url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/audiobooks/kayfar/guftori1.mp3",
-      "image_url": "https://i.ytimg.com/vi/KcWVyzfLQv0/hqdefault.jpg?sqp=-oaymwFBCOADEI4CSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC6AKKAgwIABABGCYgZSg-MA8=&rs=AOn4CLAdzgo2i25ZD1iPeY5W4NjLthVpYg",
-      "description": "Короткие сказки для детей",
-      "language": "ru",
-      "year": 2020,
-      "tags": ["детская литература", "сказки"]
+      "title": "ТОҶИКОН-И БОБОҶОН ҒАФУРОВ / ГУФТОРИ 1",
+      "author": "ТОҶИКОН-И БОБОҶОН ҒАФУРОВ / ГУФТОРИ 1",
+      "url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/audiobooks/tojikon/tojikon_guftori_1.mp3",
+      "image_url": "https://i.ytimg.com/vi/1aZAnbkzWJw/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4EgALoAooCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLA80uRU3HXQMQL3K_67QeoIYWCqbg",
+      "description": "ТОҶИКОН-И БОБОҶОН ҒАФУРОВ / ГУФТОРИ 1",
+      "language": "tj",
+      "year": 2026,
+      "tags": ["литература", "аудиокнига"]
     },
     {
       "id": "2",
-      "title": "КАЙФАР-и ДИЛОВАР МИРЗО / ГУФТОРИ 1",
-      "author": "КАЙФАР-и ДИЛОВАР МИРЗО / ГУФТОРИ 1",
-      "url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/audiobooks/kayfar/guftori2.mp3",
-      "image_url": "https://i.ytimg.com/vi/Area9NSPo90/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4AdQGgALgA4oCDAgAEAEYFiBlKDcwDw==&rs=AOn4CLDftXWUzzY2mNkIwKGBMVPPuTSBJA",
-      "description": "Описание...",
-      "language": "ru",
-      "year": 2021,
-      "tags": ["сказки"]
-    }
+      "title": "ТОҶИКОН-И БОБОҶОН ҒАФУРОВ / ГУФТОРИ 2",
+      "author": "ТОҶИКОН-И БОБОҶОН ҒАФУРОВ / ГУФТОРИ 2",
+      "url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/audiobooks/tojikon/tojikon_guftori_2.mp3",
+      "image_url": "https://i.ytimg.com/vi/1aZAnbkzWJw/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4EgALoAooCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLA80uRU3HXQMQL3K_67QeoIYWCqbg",
+      "description": "ТОҶИКОН-И БОБОҶОН ҒАФУРОВ / ГУФТОРИ 1",
+      "language": "tj",
+      "year": 2026,
+      "tags": ["литература", "аудиокнига"]
+    },
+    {
+      "id": "3",
+      "title": "ТОҶИКОН-И БОБОҶОН ҒАФУРОВ / ГУФТОРИ 3",
+      "author": "ТОҶИКОН-И БОБОҶОН ҒАФУРОВ / ГУФТОРИ 3",
+      "url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/refs/heads/main/audiobooks/tojikon/tojikon_guftori_3.mp3",
+      "image_url": "https://i.ytimg.com/vi/1aZAnbkzWJw/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4EgALoAooCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLA80uRU3HXQMQL3K_67QeoIYWCqbg",
+      "description": "ТОҶИКОН-И БОБОҶОН ҒАФУРОВ / ГУФТОРИ 1",
+      "language": "tj",
+      "year": 2026,
+      "tags": ["литература", "аудиокнига"]
+    },
   ]
 }
