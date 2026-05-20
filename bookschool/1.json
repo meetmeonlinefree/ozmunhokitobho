@@ -54,6 +54,28 @@
       "language": "tj",
       "year": 2025,
       "tags": ["класс 1", "учебник"]
+    },
+    {
+      "id": "book_006",
+      "title": "Суруд ва мусиқӣ",
+      "author": "Суруд ва мусиқӣ",
+      "url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/main/bookschool/class1/song_and_music_class_1.pdf",
+      "image_url": "https://www.maorif.tj/storage/libraries/01K6D209BQ5CJ2TCRQXVNFHFQM.png",
+      "description": "Суруд ва мусиқӣ",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["класс 1", "учебник"]
+    },
+    {
+      "id": "book_007",
+      "title": "Табиатшиносӣ",
+      "author": "Табиатшиносӣ",
+      "url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/main/bookschool/class1/natural_science_class_1.pdf",
+      "image_url": "https://www.maorif.tj/storage/libraries/01K6D3GCMVS432WGJXR0DHDHTA.png",
+      "description": "Табиатшиносӣ",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["класс 1", "учебник"]
     }
   ]
 }
