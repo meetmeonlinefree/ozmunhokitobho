@@ -43,6 +43,17 @@
       "language": "tj",
       "year": 2025,
       "tags": ["класс 1", "учебник"]
+    },
+    {
+      "id": "book_005",
+      "title": "Қоидаҳои ҳаракат дар роҳ",
+      "author": "Қоидаҳои ҳаракат дар роҳ",
+      "url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/main/bookschool/class1/traffic_rules_class_1.pdf",
+      "image_url": "https://www.maorif.tj/storage/libraries/01K6D1H9NBTZ8X3HWBE3AJFXNW.png",
+      "description": "Қоидаҳои ҳаракат дар роҳ",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["класс 1", "учебник"]
     }
   ]
 }
