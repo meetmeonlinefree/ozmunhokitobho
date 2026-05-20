@@ -2,47 +2,47 @@
   "books": [
     {
       "id": "book_001",
-      "title": "Сказки А",
-      "author": "Автор 1",
-      "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/main/books/1.pdf", 
-      "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori1.jpg",
-      "description": "Короткие сказки для детей",
-      "language": "ru",
-      "year": 2020,
-      "tags": ["детская литература", "сказки"]
+      "title": "Алифбо",
+      "author": "Алифбо",
+      "url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/bookschool/class1/main/books/alifbo_class_1.pdf", 
+      "image_url": "https://www.maorif.tj/storage/libraries/01K6D0DEW1KSSD4WC1XYRZ57YF.png",
+      "description": "Алифбо",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["класс 1", "учебник"]
     },
     {
       "id": "book_002",
-      "title": "Стихи Б",
-      "author": "Автор 2",
-      "url": "https://example.com/images/book.pdf",
-      "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori1.jpg",
-      "description": "Сборник стихов для подростков",
-      "language": "ru",
-      "year": 2019,
-      "tags": ["поэзия", "подростки"]
+      "title": "Забони модарӣ",
+      "author": "Забони модарӣ",
+      "url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/bookschool/class1/main/books/mother_language_class_1.pdf",
+      "image_url": "https://www.maorif.tj/storage/libraries/01K6D1146CA09AE6G6KZGNMD6Z.png",
+      "description": "Забони модарӣ",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["класс 1", "учебник"]
     },
     {
       "id": "book_003",
-      "title": "Поэма В",
-      "author": "Автор 3",
-      "url": "https://example.com/images/book.pdf",
-      "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori1.jpg",
-      "description": "Классическая поэма таджикской литературы",
-      "language": "tg",
-      "year": 1980,
-      "tags": ["классическая литература", "поэма"]
+      "title": "Математика",
+      "author": "Математика",
+      "url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/bookschool/class1/main/books/mathematics_class_1.pdf",
+      "image_url": "https://www.maorif.tj/storage/libraries/01J3EZN5X25D0G7A60RVWRWQXH.png",
+      "description": "Математика",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["класс 1", "учебник"]
     },
     {
       "id": "book_004",
-      "title": "Основы физики",
-      "author": "Автор 4",
-      "url": "https://example.com/images/book.pdf",
-      "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori1.jpg",
-      "description": "Учебник по физике для начинающих",
-      "language": "ru",
-      "year": 2018,
-      "tags": ["наука", "физика", "учебник"]
+      "title": "Санъат ва меҳнат",
+      "author": "Санъат ва меҳнат",
+      "url": "https://raw.githubusercontent.com/meetmeonlinefree/ozmunhokitobho/bookschool/class1/main/books/art_and_craft_class_1.pdf",
+      "image_url": "https://www.maorif.tj/storage/libraries/01K6D0TCJPEECCN7E9Q11SXMA9.png",
+      "description": "Санъат ва меҳнат",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["класс 1", "учебник"]
     }
   ]
 }
