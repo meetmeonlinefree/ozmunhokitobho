@@ -2,14 +2,69 @@
   "books": [
     {
       "id": "book_001",
-      "title": "Сказки А",
-      "author": "Автор 1",
-      "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/main/books/1.pdf", 
-      "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori1.jpg",
-      "description": "Короткие сказки для детей",
-      "language": "ru",
-      "year": 2020,
-      "tags": ["детская литература", "сказки"]
+      "title": "Забони модарӣ",
+      "author": "Забони модарӣ",
+      "url": "https://maorif.tj/storage/libraries/01K6D4WTQ9R8VSM2PCBQJ2GS07.pdf", 
+      "image_url": "https://www.maorif.tj/storage/libraries/01K6D4AA8M2A5WPB7X35Y12PXA.png",
+      "description": "Забони модарӣ",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["класс 2", "учебник"]
+    },
+    {
+      "id": "book_002",
+      "title": "Математика",
+      "author": "Математика",
+      "url": "https://maorif.tj/storage/libraries/01K6D54RPRPSD89CTPT0BPK496.pdf", 
+      "image_url": "https://www.maorif.tj/storage/libraries/01K6D54RQ2FSM11KXYZ00TFE3H.png",
+      "description": "Математика",
+      "language": "tj",
+      "year": 2024,
+      "tags": ["класс 2", "учебник"]
+    },
+    {
+      "id": "book_003",
+      "title": "Суруд ва мусиқӣ",
+      "author": "Суруд ва мусиқӣ",
+      "url": "https://maorif.tj/storage/libraries/01J3EZGFEHMVAZJNQFQSYT9NCY.pdf", 
+      "image_url": "https://www.maorif.tj/storage/libraries/01J3EZGFF303NXB4RF01Z56DNA.jpg",
+      "description": "Суруд ва мусиқӣ",
+      "language": "tj",
+      "year": 2023,
+      "tags": ["класс 2", "учебник"]
+    },
+    {
+      "id": "book_004",
+      "title": "Қоидаҳои ҳаракат дар роҳ",
+      "author": "Қоидаҳои ҳаракат дар роҳ",
+      "url": "https://maorif.tj/storage/libraries/01J3EZHYMCG580BST0DA9VP50C.pdf", 
+      "image_url": "https://www.maorif.tj/storage/libraries/01J3EZHYMW663FYCYWGZ7N94MW.png",
+      "description": "Қоидаҳои ҳаракат дар роҳ",
+      "language": "tj",
+      "year": 2023,
+      "tags": ["класс 2", "учебник"]
+    },
+    {
+      "id": "book_005",
+      "title": "Санъат ва меҳнат",
+      "author": "Санъат ва меҳнат",
+      "url": "https://maorif.tj/storage/libraries/01K6D5JXYAJ7NVMA757B713NZ1.pdf", 
+      "image_url": "https://www.maorif.tj/storage/libraries/01K6D5JXZ9HQ3X16AQD3XZSJ8N.png",
+      "description": "Санъат ва меҳнат",
+      "language": "tj",
+      "year": 2022,
+      "tags": ["класс 2", "учебник"]
+    },
+    {
+      "id": "book_006",
+      "title": "Табиатшиносӣ",
+      "author": "Табиатшиносӣ",
+      "url": "https://maorif.tj/storage/libraries/01K6D638J7PQP0P4060Q52MAEC.pdf", 
+      "image_url": "https://www.maorif.tj/storage/libraries/01K6D638K9WZ990Z3A281FXGQ4.png",
+      "description": "Табиатшиносӣ",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["класс 2", "учебник"]
     }
   ]
 }
