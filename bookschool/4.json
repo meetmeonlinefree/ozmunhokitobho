@@ -2,14 +2,80 @@
   "books": [
     {
       "id": "book_001",
-      "title": "Сказки А",
-      "author": "Автор 1",
-      "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/main/books/9.pdf", 
-      "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori1.jpg",
-      "description": "Короткие сказки для детей",
-      "language": "ru",
-      "year": 2020,
-      "tags": ["детская литература", "сказки"]
+      "title": "Забони модарӣ",
+      "author": "Забони модарӣ",
+      "url": "https://maorif.tj/storage/libraries/01K6FP07VZHTJHGBM3HKA5XVQX.pdf", 
+      "image_url": "https://www.maorif.tj/storage/libraries/01K6FP07WR88QB445DXYX3811T.png",
+      "description": "Забони модарӣ",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["класс 4", "учебник"]
+    },
+    {
+      "id": "book_002",
+      "title": "Математика",
+      "author": "Математика",
+      "url": "https://maorif.tj/storage/libraries/01K6HFMES14C6MFAT27TFG3JE0.pdf", 
+      "image_url": "https://www.maorif.tj/storage/libraries/01K6HFMESYW54WJ4KRXF7A7V2W.png",
+      "description": "Математика",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["класс 4", "учебник"]
+    },
+    {
+      "id": "book_003",
+      "title": "Забони англисӣ",
+      "author": "Забони англисӣ",
+      "url": "https://maorif.tj/storage/libraries/01J3F0DWRQY2Y3QEPCGN3STA5V.pdf", 
+      "image_url": "https://www.maorif.tj/storage/libraries/01J3F0DWSVZFM8M1QYH0DZQWB0.png",
+      "description": "Забони англисӣ",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["класс 4", "учебник"]
+    },
+    {
+      "id": "book_004",
+      "title": "Суруд ва мусиқӣ",
+      "author": "Суруд ва мусиқӣ",
+      "url": "https://maorif.tj/storage/libraries/01J3F0KCQ2XQXXBTZC59X9180X.pdf", 
+      "image_url": "https://www.maorif.tj/storage/libraries/01K6HG63M5BJKVYPJ9HHFSTRJB.png",
+      "description": "Суруд ва мусиқӣ",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["класс 4", "учебник"]
+    },
+    {
+      "id": "book_005",
+      "title": "Физическая культура",
+      "author": "Физическая культура",
+      "url": "https://maorif.tj/storage/libraries/01K6FPBQJ55ZG5N4PVYJABG7NP.pdf", 
+      "image_url": "https://www.maorif.tj/storage/libraries/01K6FPBQK26TBREE4WNEVD2G7T.png",
+      "description": "Физическая культура",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["класс 4", "учебник"]
+    },
+    {
+      "id": "book_006",
+      "title": "Санъат ва меҳнат",
+      "author": "Санъат ва меҳнат",
+      "url": "https://maorif.tj/storage/libraries/01K6HFXZGGH3WSCSAH8Q6BFTR1.pdf", 
+      "image_url": "https://www.maorif.tj/storage/libraries/01K6HFXZH4KZ8ZFCH1DNTYGAQ5.png",
+      "description": "Санъат ва меҳнат",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["класс 4", "учебник"]
+    },
+    {
+      "id": "book_007",
+      "title": "Табиатшиносӣ",
+      "author": "Табиатшиносӣ",
+      "url": "https://maorif.tj/storage/libraries/01K6HGCFAWER4CAVHMZDZJHFB2.pdf", 
+      "image_url": "https://www.maorif.tj/storage/libraries/01K6HGCFBKGMGCWHKMP9KY4VMP.png",
+      "description": "Табиатшиносӣ",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["класс 4", "учебник"]
     }
   ]
 }
