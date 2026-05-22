@@ -2,14 +2,91 @@
   "books": [
     {
       "id": "book_001",
-      "title": "Сказки А",
-      "author": "Автор 1",
-      "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/main/books/9.pdf", 
-      "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori1.jpg",
-      "description": "Короткие сказки для детей",
-      "language": "ru",
-      "year": 2020,
-      "tags": ["детская литература", "сказки"]
+      "title": "Забони модарӣ",
+      "author": "Забони модарӣ",
+      "url": "https://maorif.tj/storage/libraries/01K6FG0KBXG97ZQD3CPZSM191B.pdf", 
+      "image_url": "https://www.maorif.tj/storage/libraries/01K6FFTYTP4B36KY0NV7GT7VD9.png",
+      "description": "Забони модарӣ",
+      "language": "tj",
+      "year": 2023,
+      "tags": ["класс 3", "учебник"]
+    },
+    {
+      "id": "book_002",
+      "title": "Математика",
+      "author": "Математика",
+      "url": "https://maorif.tj/storage/libraries/01K6FE8ZXN7BB2MW75EHWNPBEN.pdf", 
+      "image_url": "https://www.maorif.tj/storage/libraries/01K6FE8ZY1V1N9C85JPR4KWR31.png",
+      "description": "Математика",
+      "language": "tj",
+      "year": 2023,
+      "tags": ["класс 3", "учебник"]
+    },
+    {
+      "id": "book_003",
+      "title": "Забони англисӣ",
+      "author": "Забони англисӣ",
+      "url": "https://maorif.tj/storage/libraries/01J3F0PK7M2V2Z7XR45PZMGKD7.pdf", 
+      "image_url": "https://www.maorif.tj/storage/libraries/01J3F0PK8738T07Q04DPPC5MX1.jpg",
+      "description": "Забони англисӣ",
+      "language": "tj",
+      "year": 2023,
+      "tags": ["класс 3", "учебник"]
+    },
+    {
+      "id": "book_004",
+      "title": "Табиатшиносӣ",
+      "author": "Табиатшиносӣ",
+      "url": "https://maorif.tj/storage/libraries/01J3F0QRPD2HZH4NMPMADQ8NEY.pdf", 
+      "image_url": "https://www.maorif.tj/storage/libraries/01J3F0QRPQG8Q2PBGY98NR6KBR.jpg",
+      "description": "Табиатшиносӣ",
+      "language": "tj",
+      "year": 2023,
+      "tags": ["класс 3", "учебник"]
+    },
+    {
+      "id": "book_005",
+      "title": "Тарзи ҳаёти солим",
+      "author": "Тарзи ҳаёти солим",
+      "url": "https://maorif.tj/storage/libraries/01JBBB2NDM7HVZ0V7M856130N2.pdf", 
+      "image_url": "https://www.maorif.tj/storage/libraries/01JBBB2NEE49JNR0FX2HX5R3K6.jpg",
+      "description": "Тарзи ҳаёти солим",
+      "language": "tj",
+      "year": 2023,
+      "tags": ["класс 3", "учебник"]
+    },
+    {
+      "id": "book_006",
+      "title": "Русская речь",
+      "author": "Русская речь",
+      "url": "https://maorif.tj/storage/libraries/01K6FEWRBNH92X948Z24FBGWD8.pdf", 
+      "image_url": "https://www.maorif.tj/storage/libraries/01K6FEKCSPVGV4Q0T53DSD6KQF.png",
+      "description": "Русская речь",
+      "language": "tj",
+      "year": 2023,
+      "tags": ["класс 3", "учебник"]
+    },
+    {
+      "id": "book_007",
+      "title": "Санъат ва меҳнат",
+      "author": "Санъат ва меҳнат",
+      "url": "https://maorif.tj/storage/libraries/01K6FFB6TTS376PS974PR7SJYW.pdf", 
+      "image_url": "https://www.maorif.tj/storage/libraries/01K6FFB6VBCJYZV29BEWBD728F.png",
+      "description": "Санъат ва меҳнат",
+      "language": "tj",
+      "year": 2023,
+      "tags": ["класс 3", "учебник"]
+    },
+    {
+      "id": "book_008",
+      "title": "Суруд ва мусиқӣ",
+      "author": "Суруд ва мусиқӣ",
+      "url": "https://maorif.tj/storage/libraries/01K6FGBQEMGE82AFX4M0A640TM.pdf", 
+      "image_url": "https://www.maorif.tj/storage/libraries/01K6FG4Q6V13J80P00WGKKEWP0.png",
+      "description": "Суруд ва мусиқӣ",
+      "language": "tj",
+      "year": 2024,
+      "tags": ["класс 3", "учебник"]
     }
   ]
 }
