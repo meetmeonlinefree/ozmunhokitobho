@@ -6,34 +6,37 @@
     "total_books": 500,
     "books": [
       {
-        "id": "book_004",
-        "title": "Поэма В",
-        "author": "Автор 4",
-        "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori1.jpg",
-        "description": "Классическая поэма таджикской литературы",
-        "language": "tg",
+        "id": "book_001",
+        "title": "Гулшани адаб. Ҷилди 1 (намунаи назми форсу тоҷик — асрҳои IX — XIII)",
+        "author": "",
+        "image_url": "https://kitobkhon.net/wp-content/uploads/2026/05/kitobkhon-net-gulshani-adab-1.jpg",
+        "url": "https://kitobkhon.net/wp-content/uploads/2026/05/kitobkhon-net-2_5289635804258240297.pdf",
+        "description": "Гулшани адаб. Ҷилди 1 (намунаи назми форсу тоҷик — асрҳои IX — XIII)",
+        "language": "tj",
         "year": 1980,
-        "tags": ["поэма", "классика"]
+        "tags": ["Адабиёти классикӣ", "классика"]
       },
       {
-        "id": "book_005",
-        "title": "Роман Г",
-        "author": "Автор 5",
-        "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori1.jpg",
-        "description": "Известный роман таджикской литературы XX века",
-        "language": "tg",
+        "id": "book_002",
+        "title": "Гулшани адаб. Ҷилди 3 (намунаи назми форсу тоҷик — асрҳои XIV — XV)",
+        "author": "",
+        "image_url": "https://kitobkhon.net/wp-content/uploads/2026/05/kitobkhon-net-gulshani-adab-3.jpg",
+        "url": "https://kitobkhon.net/wp-content/uploads/2026/05/kitobkhon-net-2_5289635804258240298.pdf",
+        "description": "Гулшани адаб. Ҷилди 3 (намунаи назми форсу тоҷик — асрҳои XIV — XV)",
+        "language": "tj",
         "year": 1975,
-        "tags": ["роман", "классика"]
+        "tags": ["Адабиёти классикӣ", "классика"]
       },
       {
-        "id": "book_006",
-        "title": "Сборник стихов Д",
-        "author": "Автор 6",
-        "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori1.jpg",
-        "description": "Сборник классической поэзии Таджикистана",
-        "language": "tg",
+        "id": "book_003",
+        "title": "Занҷири гусаста (маълумотномаи панду ахлоқӣ)",
+        "author": "",
+        "image_url": "https://kitobkhon.net/wp-content/uploads/2026/04/kitobkhon-net-zanjiri-gusasta.jpg",
+        "url": "https://kitobkhon.net/wp-content/uploads/2026/04/kitobkhon-net-1.-zanjiri-gusasta.pdf",
+        "description": "Занҷири гусаста (маълумотномаи панду ахлоқӣ)",
+        "language": "tj",
         "year": 1965,
-        "tags": ["поэзия", "классика"]
+        "tags": ["Адабиёти классикӣ", "классика"]
       }
     ]
   }
