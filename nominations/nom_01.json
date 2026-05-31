@@ -14,29 +14,29 @@
         "description": "барои кӯдакон ва наврасон",
         "language": "tj",
         "year": 2007,
-        "tags": ["детская литература", "сказки"]
+        "tags": ["барои кӯдакон ва наврасон", "сказки"]
       },
       {
         "id": "book_002",
-        "title": "Стихи Б",
-        "author": "Автор 2",
-        "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori39.avif",
-        "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/main/books/1.pdf", 
-        "description": "Сборник стихов для подростков",
-        "language": "ru",
-        "year": 2019,
-        "tags": ["поэзия", "подростки"]
+        "title": "Дарёи кӯча",
+        "author": "Гулназар Келдӣ",
+        "image_url": "https://kitobkhon.net/wp-content/uploads/2026/05/kitobkhon-net-daryoi-kucha.jpg",
+        "url": "https://kitobkhon.net/wp-content/uploads/2026/05/kitobkhon-net-2_5224261046188903359.pdf", 
+        "description": "барои кӯдакон ва наврасон",
+        "language": "tj",
+        "year": 2010,
+        "tags": ["барои кӯдакон ва наврасон", "сказки"]
       },
       {
         "id": "book_003",
-        "title": "Приключения В",
-        "author": "Автор 3",
-        "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori40.avif",
-        "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/main/books/1.pdf", 
-        "description": "Весёлые приключения для детей и подростков",
-        "language": "ru",
-        "year": 2021,
-        "tags": ["приключения", "дети"]
+        "title": "Дурдонаҳои ашк ва Гули қаҳ-қаҳ",
+        "author": "К. Улугзода",
+        "image_url": "https://kitobkhon.net/wp-content/uploads/2026/05/kitobkhon-net-durdonahoi-ashk-va-guli-kah-kah.jpg",
+        "url": "https://kitobkhon.net/wp-content/uploads/2026/05/kitobkhon-net-2_5224261046188903358.pdf", 
+        "description": "барои кӯдакон ва наврасон",
+        "language": "tj",
+        "year": 1967,
+        "tags": ["барои кӯдакон ва наврасон", "дети"]
       }
     ]
   }
