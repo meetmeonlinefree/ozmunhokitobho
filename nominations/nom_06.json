@@ -7,25 +7,36 @@
     "books": [
       {
         "id": "book_001",
-        "title": "Сказки А",
-        "author": "Автор 1",
-        "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori1.jpg",
-        "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/main/books/1.pdf",
-        "description": "Короткие сказки для детей",
-        "language": "ru",
-        "year": 2020,
-        "tags": ["детская литература", "сказки"]
+        "title": "Ҷони оча (қиссаҳо ва ҳикояҳо)",
+        "author": "Искандар Мирзо",
+        "image_url": "https://kitobkhon.net/wp-content/uploads/2026/05/kitobkhon-net-joni-ocha.jpg",
+        "url": "https://kitobkhon.net/wp-content/uploads/2026/05/kitobkhon-net-2_5429248646837177545.pdf",
+        "description": "Ҷони оча (қиссаҳо ва ҳикояҳо)",
+        "language": "tj",
+        "year": 2015,
+        "tags": ["Эҷоди наср", "наср"]
       },
       {
         "id": "book_002",
-        "title": "Стихи Б",
-        "author": "Автор 2",
-        "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori39.avif",
-        "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/main/books/1.pdf", 
-        "description": "Сборник стихов для подростков",
-        "language": "ru",
-        "year": 2019,
-        "tags": ["поэзия", "подростки"]
+        "title": "Аз пайи паланг (қисса ва ҳикояҳо)",
+        "author": "Маҷид Салим",
+        "image_url": "https://kitobkhon.net/wp-content/uploads/2026/04/kitobkhon-net-az-payi-palang.jpg",
+        "url": "https://kitobkhon.net/wp-content/uploads/2026/04/kitobkhon-net-1.-majid-salim.-az-payi-palang.pdf", 
+        "description": "Аз пайи паланг (қисса ва ҳикояҳо)",
+        "language": "tj",
+        "year": 2010,
+        "tags": ["Эҷоди наср", "наср"]
+      },
+      {
+        "id": "book_003",
+        "title": "Ҳақиқати талх",
+        "author": "Баҳром Фирӯз",
+        "image_url": "https://kitobkhon.net/wp-content/uploads/2026/01/kitobkhon-net-hakikati-talkh.jpg",
+        "url": "https://kitobkhon.net/wp-content/uploads/2026/01/kitobkhon-net-hakikati-talkh-%E2%80%94-bahrom-firuz.pdf", 
+        "description": "Ҳақиқати талх",
+        "language": "tj",
+        "year": 2008,
+        "tags": ["Эҷоди наср", "наср"]
       }
     ]
   }
