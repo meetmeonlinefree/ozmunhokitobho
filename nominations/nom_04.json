@@ -7,36 +7,36 @@
     "books": [
       {
         "id": "book_001",
-        "title": "Сказки А",
-        "author": "Автор 1",
-        "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori1.jpg",
-        "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/main/books/1.pdf",
-        "description": "Короткие сказки для детей",
-        "language": "ru",
-        "year": 2020,
-        "tags": ["детская литература", "сказки"]
+        "title": "Ҳикояҳо дар бораи Шерлок Холмс",
+        "author": "Артур Конан Дойл",
+        "image_url": "https://kitobkhon.net/wp-content/uploads/2026/01/kitobkhon-net-sherlok-kholms.jpg",
+        "url": "https://kitobkhon.net/wp-content/uploads/2026/01/kitobkhon-net-sherlok_kholms.pdf",
+        "description": "Ҳикояҳо дар бораи Шерлок Холмс",
+        "language": "tj",
+        "year": 1981,
+        "tags": ["Адабиёти ҷаҳон", "ҷаҳон"]
       },
       {
         "id": "book_002",
-        "title": "Стихи Б",
-        "author": "Автор 2",
-        "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori39.avif",
-        "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/main/books/1.pdf", 
-        "description": "Сборник стихов для подростков",
-        "language": "ru",
-        "year": 2019,
-        "tags": ["поэзия", "подростки"]
+        "title": "Ҳамлет, шоҳзодаи Дания. Фоҷиа дар панҷ парда",
+        "author": "Уилям Шекспир",
+        "image_url": "https://kitobkhon.net/wp-content/uploads/2025/12/kitobkhon-net-hamlet.jpg",
+        "url": "https://kitobkhon.net/wp-content/uploads/2025/12/kitobkhon-net-uilyam_shekspir_hamlet_shohzodai_daniya.pdf", 
+        "description": "Ҳамлет, шоҳзодаи Дания. Фоҷиа дар панҷ парда",
+        "language": "tj",
+        "year": 1979,
+        "tags": ["Адабиёти ҷаҳон", "ҷаҳон"]
       },
       {
         "id": "book_003",
-        "title": "Приключения В",
-        "author": "Автор 3",
-        "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori40.avif",
-        "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/main/books/1.pdf", 
-        "description": "Весёлые приключения для детей и подростков",
-        "language": "ru",
-        "year": 2021,
-        "tags": ["приключения", "дети"]
+        "title": "Самурае, ки шамшер надорад (Самурай без меча)",
+        "author": "Китами Масао",
+        "image_url": "https://kitobkhon.net/wp-content/uploads/2025/12/kitobkhon-net-samuray-210x300.jpg",
+        "url": "https://kitobkhon.net/wp-content/uploads/2025/12/kitobkhon-net-samurae-ki-shamsher-nadorad1.pdf", 
+        "description": "Самурае, ки шамшер надорад (Самурай без меча)",
+        "language": "tj",
+        "year": 2025,
+        "tags": ["Адабиёти ҷаҳон", "ҷаҳон"]
       }
     ]
   }
