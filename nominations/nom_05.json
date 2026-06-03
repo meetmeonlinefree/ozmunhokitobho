@@ -7,36 +7,36 @@
     "books": [
       {
         "id": "book_001",
-        "title": "Сказки А",
-        "author": "Автор 1",
-        "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori1.jpg",
-        "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/main/books/1.pdf",
-        "description": "Короткие сказки для детей",
-        "language": "ru",
-        "year": 2020,
-        "tags": ["детская литература", "сказки"]
+        "title": "Борони бесаранҷом",
+        "author": "Гулназар Келдӣ",
+        "image_url": "https://kitobkhon.net/wp-content/uploads/2026/06/kitobkhon-net-boroni-besaranjom.jpg",
+        "url": "https://kitobkhon.net/wp-content/uploads/2026/06/kitobkhon-net-1.-boroni-basaranjom.pdf",
+        "description": "Борони бесаранҷом",
+        "language": "tj",
+        "year": 2004,
+        "tags": ["Эҷоди назм", "назм"]
       },
       {
         "id": "book_002",
-        "title": "Стихи Б",
-        "author": "Автор 2",
-        "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori39.avif",
-        "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/main/books/1.pdf", 
-        "description": "Сборник стихов для подростков",
-        "language": "ru",
-        "year": 2019,
-        "tags": ["поэзия", "подростки"]
+        "title": "Симхор",
+        "author": "Бозор Собир",
+        "image_url": "https://kitobkhon.net/wp-content/uploads/2026/06/kitobkhon-net-simkhor.jpg",
+        "url": "https://kitobkhon.net/wp-content/uploads/2026/06/kitobkhon-net-1.-bozor-sobir.-simkhor.pdf", 
+        "description": "Симхор",
+        "language": "tj",
+        "year": 1990,
+        "tags": ["Эҷоди назм", "назм"]
       },
       {
         "id": "book_003",
-        "title": "Приключения В",
-        "author": "Автор 3",
-        "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori40.avif",
-        "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/main/books/1.pdf", 
-        "description": "Весёлые приключения для детей и подростков",
-        "language": "ru",
-        "year": 2021,
-        "tags": ["приключения", "дети"]
+        "title": "Лолаи сиёҳ (маҷмӯаи шеърҳо)",
+        "author": "Бозор Собир",
+        "image_url": "https://kitobkhon.net/wp-content/uploads/2026/06/kitobkhon-net-lolai-siyoh.jpg",
+        "url": "https://kitobkhon.net/wp-content/uploads/2026/06/kitobkhon-net-1.-bozor-sobir.-lolai-siyoh.pdf", 
+        "description": "Лолаи сиёҳ (маҷмӯаи шеърҳо)",
+        "language": "tj",
+        "year": 2013,
+        "tags": ["Эҷоди назм", "назм"]
       }
     ]
   }
