@@ -43,6 +43,61 @@
       "language": "tj",
       "year": 2025,
       "tags": ["синфи 5", "класс 5"]
+    },
+    {
+      "id": "book_005",
+      "title": "Суруд ва мусиқӣ",
+      "author": "Суруд ва мусиқӣ",
+      "url": "https://maorif.tj/storage/libraries/01J3F17QT1AVDYZ46D4SQQZH4E.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01J3F17QTHT1B8F5D19VV92400.png",
+      "description": "Суруд ва мусиқӣ",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["синфи 5", "класс 5"]
+    },
+    {
+      "id": "book_006",
+      "title": "Таърихи умумӣ",
+      "author": "Таърихи умумӣ",
+      "url": "https://maorif.tj/storage/libraries/01J3F19EV8EH2GEZS1WAW3NH8Z.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01J3F19EWPKWY8P8V5AFDHC8BV.png",
+      "description": "Таърихи умумӣ",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["синфи 5", "класс 5"]
+    },
+    {
+      "id": "book_007",
+      "title": "Адабиёти тоҷик",
+      "author": "Адабиёти тоҷик",
+      "url": "https://maorif.tj/storage/libraries/01K6HGRAG6CPT6S1XBVK6KBPJT.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01K6HGHEMYF538DGMP62YQ0ASC.png",
+      "description": "Адабиёти тоҷик",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["синфи 5", "класс 5"]
+    },
+    {
+      "id": "book_008",
+      "title": "Санъати тасвирӣ",
+      "author": "Санъати тасвирӣ",
+      "url": "https://maorif.tj/storage/libraries/01K6HH35K10BPR9A6HDK7GM142.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01K6HH35M8BPC0GRM263ST70M9.png",
+      "description": "Санъати тасвирӣ",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["синфи 5", "класс 5"]
+    },
+    {
+      "id": "book_009",
+      "title": "Ботаника",
+      "author": "Ботаника",
+      "url": "https://maorif.tj/storage/libraries/01K6HH9A712FVP0HMGNT830A66.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01K6HH9A7D1X28AW69SE04231P.png",
+      "description": "Ботаника",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["синфи 5", "класс 5"]
     }
   ]
 }
