@@ -2,55 +2,55 @@
   "books": [
     {
       "id": "book_001",
-      "title": "Сказки А",
-      "author": "Автор 1",
-      "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/main/books/1.pdf", 
-      "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori1.jpg",
-      "description": "Короткие сказки для детей",
-      "language": "ru",
-      "year": 2020,
+      "title": "Бузургон дар васфи забони тоҷикӣ",
+      "author": "Бузургон дар васфи забони тоҷикӣ",
+      "url": "https://kitobkhon.net/wp-content/uploads/2026/05/kitobkhon-net-2_5289635804258240304.pdf", 
+      "image_url": "https://kitobkhon.net/wp-content/uploads/2026/05/kitobkhon-net-buzurgon-dar-vasfi-zaboni-tojiki.jpg",
+      "description": "Бузургон дар васфи забони тоҷикӣ",
+      "language": "tj",
+      "year": 2015,
       "competition_id": "comp_01",
       "nomination_id": "nom_01",
-      "tags": ["детская литература", "сказки"]
+      "tags": ["китоб", "книги"]
     },
     {
       "id": "book_002",
-      "title": "Стихи Б",
-      "author": "Автор 2",
-      "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/main/books/2.pdf",
-      "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori1.jpg",
-      "description": "Сборник стихов для подростков",
-      "language": "ru",
-      "year": 2019,
+      "title": "Ҳазору як чистон",
+      "author": "Ҳазору як чистон",
+      "url": "https://kitobkhon.net/wp-content/uploads/2026/05/kitobkhon-net-2_5201764724751993971.pdf",
+      "image_url": "https://kitobkhon.net/wp-content/uploads/2026/01/kitobkhon-net-navodir-ul-vakoe-211x300.jpg",
+      "description": "Ҳазору як чистон",
+      "language": "tj",
+      "year": 1994,
       "competition_id": "comp_01",
       "nomination_id": "nom_01",
-      "tags": ["поэзия", "подростки"]
+      "tags": ["китоб", "книги"]
     },
     {
       "id": "book_003",
-      "title": "Поэма В",
-      "author": "Автор 3",
-      "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/main/books/3.pdf",
-      "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori1.jpg",
-      "description": "Классическая поэма таджикской литературы",
-      "language": "tg",
-      "year": 1980,
+      "title": "Наводир-ул-вақоеъ (китоби 1)",
+      "author": "Аҳмади Дониш",
+      "url": "https://kitobkhon.net/wp-content/uploads/2026/01/kitobkhon-net-navodir_ul_vakoe_1.pdf",
+      "image_url": "https://kitobkhon.net/wp-content/uploads/2026/01/kitobkhon-net-navodir-ul-vakoe-211x300.jpg",
+      "description": "Наводир-ул-вақоеъ (китоби 1)",
+      "language": "tj",
+      "year": 1988,
       "competition_id": "comp_01",
       "nomination_id": "nom_02",
-      "tags": ["классическая литература", "поэма"]
+      "tags": [китоб", "книги"]
     },
     {
       "id": "book_004",
-      "title": "Основы физики",
-      "author": "Автор 4",
-      "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/main/books/4.pdf",
+      "title": "Наводир-ул-вақоеъ (китоби 2)",
+      "author": "Аҳмади Дониш",
+      "url": "https://kitobkhon.net/wp-content/uploads/2026/01/kitobkhon-net-navodir_ul_vakoe_2.pdf",
       "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori1.jpg",
-      "description": "Учебник по физике для начинающих",
-      "language": "ru",
-      "year": 2018,
+      "description": "Наводир-ул-вақоеъ (китоби 2)",
+      "language": "tj",
+      "year": 1988,
       "competition_id": "comp_02",
       "nomination_id": "nom_05",
-      "tags": ["наука", "физика", "учебник"]
+      "tags": ["китоб", "книги", "Аҳмади Дониш"]
     }
   ]
 }
