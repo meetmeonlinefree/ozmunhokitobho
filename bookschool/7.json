@@ -21,6 +21,83 @@
       "language": "ru",
       "year": 2025,
       "tags": ["синфи 7", "класс 7"]
+    },
+    {
+      "id": "book_003",
+      "title": "Таърихи умумӣ",
+      "author": "Таърихи умумӣ",
+      "url": "https://maorif.tj/storage/libraries/01J3F2E12SZNQ9VWZBX5WQPRSK.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01J3F2E13EBTQT63FC3KEM4FVY.png",
+      "description": "Таърихи умумӣ",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["синфи 7", "класс 7"]
+    },
+    {
+      "id": "book_004",
+      "title": "Технологияи иттилоотӣ",
+      "author": "Технологияи иттилоотӣ",
+      "url": "https://maorif.tj/storage/libraries/01J3F2H41E34CVVMTJFQKFG17R.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01J3F2H41MM6S3WJQPBBANVHNB.png",
+      "description": "Технологияи иттилоотӣ",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["синфи 7", "класс 7"]
+    },
+    {
+      "id": "book_005",
+      "title": "Таърихи халқи тоҷик",
+      "author": "Таърихи халқи тоҷик",
+      "url": "https://maorif.tj/storage/libraries/01JBBC8JQ8WKGR4FX0YVGXMCW2.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01JBBC8JQFBC0FXXVDNKC9HSRZ.jpg",
+      "description": "Таърихи халқи тоҷик",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["синфи 7", "класс 7"]
+    },
+    {
+      "id": "book_006",
+      "title": "Забони англисӣ",
+      "author": "Забони англисӣ",
+      "url": "https://maorif.tj/storage/libraries/01JBBCAJBQT716CZCT5G5PJV1P.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01JBBCAJEB8PJDSSWWPM3MHREB.jpg",
+      "description": "Забони англисӣ",
+      "language": "en",
+      "year": 2025,
+      "tags": ["синфи 7", "класс 7"]
+    },
+    {
+      "id": "book_007",
+      "title": "Алгебра",
+      "author": "Алгебра",
+      "url": "https://maorif.tj/storage/libraries/01KH5PKCYE9J14PM8S0MAGB5CS.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01KH5PKCYK9WEREA0BJY5YX82Y.png",
+      "description": "Алгебра",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["синфи 7", "класс 7"]
+    },
+    {
+      "id": "book_008",
+      "title": "Геометрия",
+      "author": "Геометрия",
+      "url": "https://maorif.tj/storage/libraries/01KH5PX266Q593A1S4GKCFD79N.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01KH5PX2696HH9EFY69XXXC2JY.png",
+      "description": "Геометрия",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["синфи 7", "класс 7"]
+    },
+    {
+      "id": "book_009",
+      "title": "Зоология",
+      "author": "Зоология",
+      "url": "https://maorif.tj/storage/libraries/01KH5ZHRR097Q3DR1C9C5839MY.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01KH5ZHRRZQGMF6A09F02XA7QB.png",
+      "description": "Зоология",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["синфи 7", "класс 7"]
     }
   ]
 }
