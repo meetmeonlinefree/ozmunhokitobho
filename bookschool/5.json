@@ -2,14 +2,47 @@
   "books": [
     {
       "id": "book_001",
-      "title": "Сказки А",
-      "author": "Автор 1",
-      "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/main/books/9.pdf", 
-      "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori1.jpg",
-      "description": "Короткие сказки для детей",
-      "language": "ru",
-      "year": 2020,
-      "tags": ["детская литература", "сказки"]
+      "title": "Забони тоҷикӣ",
+      "author": "Забони тоҷикӣ",
+      "url": "https://maorif.tj/storage/libraries/01J3F11TDTHJ6MASE1GJX5YD7T.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01J3F11TE7125BND8WJRRNKE6V.png",
+      "description": "Забони тоҷикӣ",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["синфи 5", "класс 5"]
+    },
+    {
+      "id": "book_002",
+      "title": "Математика",
+      "author": "Математика",
+      "url": "https://maorif.tj/storage/libraries/01J3F100JXTDC0SCVRJ6N77H0B.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01J3F100K1NWXZ2CFV2J44VDPD.png",
+      "description": "Математика",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["синфи 5", "класс 5"]
+    },
+    {
+      "id": "book_003",
+      "title": "Забони англисӣ",
+      "author": "Забони англисӣ",
+      "url": "https://maorif.tj/storage/libraries/01J3F13V7XZB2B72RZ8GM6P54P.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01J3F13V81J39J7PB4H90W8584.png",
+      "description": "Забони англисӣ",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["синфи 5", "класс 5"]
+    },
+    {
+      "id": "book_004",
+      "title": "Русский язык",
+      "author": "Русский язык",
+      "url": "https://maorif.tj/storage/libraries/01J3F162RW5CVE7V5DCD8641MF.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01J3F162S4928J47F7DBMPA11W.png",
+      "description": "Русский язык",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["синфи 5", "класс 5"]
     }
   ]
 }
