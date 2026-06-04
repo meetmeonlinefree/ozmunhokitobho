@@ -2,14 +2,14 @@
   "books": [
     {
       "id": "book_001",
-      "title": "Сказки А",
-      "author": "Автор 1",
-      "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/main/books/9.pdf", 
-      "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori1.jpg",
-      "description": "Короткие сказки для детей",
-      "language": "ru",
-      "year": 2020,
-      "tags": ["детская литература", "сказки"]
+      "title": "Адабиёти тоҷик",
+      "author": "Адабиёти тоҷик",
+      "url": "https://maorif.tj/storage/libraries/01J3F0T0HNQEKQB8X0XYN5G86A.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01J3F0T0HSB0F3WVKT37KD4P6E.jpg",
+      "description": "Адабиёти тоҷик",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["синфи 10", "класс 10"]
     }
   ]
 }
