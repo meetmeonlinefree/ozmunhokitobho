@@ -10,6 +10,94 @@
       "language": "tj",
       "year": 2025,
       "tags": ["синфи 9", "класс 9"]
+    },
+    {
+      "id": "book_002",
+      "title": "Химия",
+      "author": "Химия",
+      "url": "https://maorif.tj/storage/libraries/01J3F1NZG5C8AN29DPZ17PPWGS.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01J3F1NZGHNK8CHR1DY8XCSNR6.jpg",
+      "description": "Химия",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["синфи 9", "класс 9"]
+    },
+    {
+      "id": "book_003",
+      "title": "Русский язык",
+      "author": "Русский язык",
+      "url": "https://maorif.tj/storage/libraries/01J3F1WCC4GNRCQ96DRV0YRS9C.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01J3F1WCC9FVNNW3GCPY865BQ5.jpg",
+      "description": "Русский язык",
+      "language": "ru",
+      "year": 2025,
+      "tags": ["синфи 9", "класс 9"]
+    },
+    {
+      "id": "book_004",
+      "title": "Геометрия",
+      "author": "Геометрия",
+      "url": "https://maorif.tj/storage/libraries/01J3F1YDRTFXZ6C9S15N05JM2S.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01J3F1YDRXD7DYJE2ZYCHDCKJ1.jpg",
+      "description": "Геометрия",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["синфи 9", "класс 9"]
+    },
+    {
+      "id": "book_005",
+      "title": "Адабиёти тоҷик",
+      "author": "Адабиёти тоҷик",
+      "url": "https://maorif.tj/storage/libraries/01J3F20TCS153WXVYZ6XFCVGXM.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01J3F20TCXVYFJBD1JCA1BYHFQ.jpg",
+      "description": "Адабиёти тоҷик",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["синфи 9", "класс 9"]
+    },
+    {
+      "id": "book_006",
+      "title": "Забони англисӣ",
+      "author": "Забони англисӣ",
+      "url": "https://maorif.tj/storage/libraries/01J3F2403ST9E4FZZPH8W5DCGT.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01J3F2403V8PC0STQB0QQ3P98X.jpg",
+      "description": "Забони англисӣ",
+      "language": "en",
+      "year": 2025,
+      "tags": ["синфи 9", "класс 9"]
+    },
+    {
+      "id": "book_007",
+      "title": "Нақшакашӣ",
+      "author": "Нақшакашӣ",
+      "url": "https://maorif.tj/storage/libraries/01J3F2A1FJGA7W7R9D9ZE634TC.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01J3F2A1G3P8K10TZ8WEDQ94PT.jpg",
+      "description": "Нақшакашӣ",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["синфи 9", "класс 9"]
+    },
+    {
+      "id": "book_008",
+      "title": "Биология",
+      "author": "Биология",
+      "url": "https://maorif.tj/storage/libraries/01JBBNBXBDDKFJ50NQ914F1EWD.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01JBBNBXCNXBQ575PRDFDP0NZ8.jpg",
+      "description": "Биология",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["синфи 9", "класс 9"]
+    },
+    {
+      "id": "book_009",
+      "title": "Забони тоҷикӣ",
+      "author": "Забони тоҷикӣ",
+      "url": "https://maorif.tj/storage/libraries/01JBBPD2AW34F2WQVA3H5F5DBV.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01JBBPD2AYRE6GY5T92N3FFQM2.jpg",
+      "description": "Забони тоҷикӣ",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["синфи 9", "класс 9"]
     }
   ]
 }
