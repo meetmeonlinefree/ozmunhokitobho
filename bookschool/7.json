@@ -2,14 +2,25 @@
   "books": [
     {
       "id": "book_001",
-      "title": "Сказки А",
-      "author": "Автор 1",
-      "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/main/books/9.pdf", 
-      "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori1.jpg",
-      "description": "Короткие сказки для детей",
-      "language": "ru",
-      "year": 2020,
-      "tags": ["детская литература", "сказки"]
+      "title": "Алгебра",
+      "author": "Алгебра",
+      "url": "https://maorif.tj/storage/libraries/01J3F20678FHFZ6E5QP55XHFDB.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01J3F2067CAJ3BGE85N9J1NKBC.png",
+      "description": "Алгебра",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["синфи 7", "класс 7"]
+    },
+    {
+      "id": "book_002",
+      "title": "Русский язык",
+      "author": "Русский язык",
+      "url": "https://maorif.tj/storage/libraries/01J3F29F8NXKVJV4VTA7KZ4PA6.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01J3F29F8VVBM1G7FXCPZSHNV7.png",
+      "description": "Русский язык",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["синфи 7", "класс 7"]
     }
   ]
 }
