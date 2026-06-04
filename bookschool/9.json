@@ -2,14 +2,14 @@
   "books": [
     {
       "id": "book_001",
-      "title": "Сказки А",
-      "author": "Автор 1",
-      "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/main/books/9.pdf", 
-      "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori1.jpg",
-      "description": "Короткие сказки для детей",
-      "language": "ru",
-      "year": 2020,
-      "tags": ["детская литература", "сказки"]
+      "title": "Экология",
+      "author": "Экология",
+      "url": "https://maorif.tj/storage/libraries/01J3F1KMR7V1K7MNA9E280RRDE.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01J3F1KMRTAS5FYTJQGQ8BKAVX.jpg",
+      "description": "Экология",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["синфи 9", "класс 9"]
     }
   ]
 }
