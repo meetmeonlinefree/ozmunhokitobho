@@ -10,6 +10,94 @@
       "language": "tj",
       "year": 2025,
       "tags": ["синфи 8", "класс 8"]
+    },
+    {
+      "id": "book_002",
+      "title": "Технология барои духтарон",
+      "author": "Технология барои духтарон",
+      "url": "https://maorif.tj/storage/libraries/01J3F2TWXMRBAWHZ3KD80JPG7G.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01J3F2TWXTVXVW9T9A96Z7CA9G.jpg",
+      "description": "Технология барои духтарон",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["синфи 8", "класс 8"]
+    },
+    {
+      "id": "book_003",
+      "title": "Русский язык",
+      "author": "Русский язык",
+      "url": "https://maorif.tj/storage/libraries/01J3F30VZ8WDB6X4Q7QCW6A3PX.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01J3F30VZBNZTM4TPA2XBAR907.jpg",
+      "description": "Русский язык",
+      "language": "ru",
+      "year": 2025,
+      "tags": ["синфи 8", "класс 8"]
+    },
+    {
+      "id": "book_004",
+      "title": "Нақшакашӣ",
+      "author": "Нақшакашӣ",
+      "url": "https://maorif.tj/storage/libraries/01J3F33BWDAZKQY2H9K344MY2M.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01J3F33BX0KW5DX87PMV2AWZRS.jpg",
+      "description": "Нақшакашӣ",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["синфи 8", "класс 8"]
+    },
+    {
+      "id": "book_005",
+      "title": "Забони тоҷикӣ",
+      "author": "Забони тоҷикӣ",
+      "url": "https://maorif.tj/storage/libraries/01J3F39A2M0HG9M794RYQ2Q2RQ.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01J3F39A2PWT5H96ZHN2NHD162.jpg",
+      "description": "Забони тоҷикӣ",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["синфи 8", "класс 8"]
+    },
+    {
+      "id": "book_006",
+      "title": "Алгебра",
+      "author": "Алгебра",
+      "url": "https://maorif.tj/storage/libraries/01JBBFTAF2X3NTQA2JMJDHVHW8.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01JBBFTAF6A5J0QPEDB5FMV9H4.jpg",
+      "description": "Алгебра",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["синфи 8", "класс 8"]
+    },
+    {
+      "id": "book_007",
+      "title": "Химия",
+      "author": "Химия",
+      "url": "https://maorif.tj/storage/libraries/01JBBG6MHQ6NTTBQYR6YBYJETK.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01JBBG6MJ0C6A37FVTNKDX6PA9.jpg",
+      "description": "Химия",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["синфи 8", "класс 8"]
+    },
+    {
+      "id": "book_008",
+      "title": "Географияи Тоҷикистон",
+      "author": "Географияи Тоҷикистон",
+      "url": "https://maorif.tj/storage/libraries/01JBBGK03G4C0CS3W7Q26NG85T.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01JBBGK04FJNFRKW5MZMM3ST2X.jpg",
+      "description": "Географияи Тоҷикистон",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["синфи 8", "класс 8"]
+    },
+    {
+      "id": "book_009",
+      "title": "Таърихи умумӣ",
+      "author": "Таърихи умумӣ",
+      "url": "https://maorif.tj/storage/libraries/01JBBGNJ9VRJC02WWEZ0RG7PDS.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01JBBGNJA8CYK3YBKE59C1QY7X.jpg",
+      "description": "Таърихи умумӣ",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["синфи 8", "класс 8"]
     }
   ]
 }
