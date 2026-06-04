@@ -2,14 +2,91 @@
   "books": [
     {
       "id": "book_001",
-      "title": "Сказки А",
-      "author": "Автор 1",
-      "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/main/books/9.pdf", 
-      "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori1.jpg",
-      "description": "Короткие сказки для детей",
-      "language": "ru",
-      "year": 2020,
-      "tags": ["детская литература", "сказки"]
+      "title": "Адабиёти тоҷик",
+      "author": "Адабиёти тоҷик",
+      "url": "https://maorif.tj/storage/libraries/01J3F1F8T37FBPNG27VF4N5P15.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01J3F1F8T6S33AK3H36DEZ7QSY.jpg",
+      "description": "Адабиёти тоҷик",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["синфи 6", "класс 6"]
+    },
+    {
+      "id": "book_002",
+      "title": "Математика",
+      "author": "Математика",
+      "url": "https://maorif.tj/storage/libraries/01J3F1H4PXRTT9JBHZ251DWA2X.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01J3F1H4Q1MGW9M2G93TMX5G09.jpg",
+      "description": "Математика",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["синфи 6", "класс 6"]
+    },
+    {
+      "id": "book_003",
+      "title": "Русскый язык",
+      "author": "Русскый язык",
+      "url": "https://maorif.tj/storage/libraries/01J3F1JF7YJ10REMWW9P7DC23C.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01J3F1JF83MPP0104618WSCTH4.jpg",
+      "description": "Русскый язык",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["синфи 6", "класс 6"]
+    },
+    {
+      "id": "book_004",
+      "title": "География",
+      "author": "География",
+      "url": "https://maorif.tj/storage/libraries/01J3F1X5F97TD8K60Y8XTQS4C8.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01J3F1X5FPEZPYCA9CTFXKXR21.jpg",
+      "description": "География",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["синфи 6", "класс 6"]
+    },
+    {
+      "id": "book_005",
+      "title": "Таърихи халқи тоҷик",
+      "author": "Таърихи халқи тоҷик",
+      "url": "https://maorif.tj/storage/libraries/01J3F21SFE3931K60BV7BW8E4M.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01J3F21SFRES6RWCESWBWXEZNA.jpg",
+      "description": "Таърихи халқи тоҷик",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["синфи 6", "класс 6"]
+    },
+    {
+      "id": "book_006",
+      "title": "Тарбияи ҷисмонӣ",
+      "author": "Тарбияи ҷисмонӣ",
+      "url": "https://maorif.tj/storage/libraries/01J3F26B83HZH4XF9Y8ZYN886P.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01J3F26B8DJSTF2NEAB6WYF3QE.jpg",
+      "description": "Тарбияи ҷисмонӣ",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["синфи 6", "класс 6"]
+    },
+    {
+      "id": "book_007",
+      "title": "Технология",
+      "author": "Технология",
+      "url": "https://maorif.tj/storage/libraries/01J3F289Z4J5PRK4FVDGQM8592.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01J3F289ZBERSNANBMNQE8BZG7.jpg",
+      "description": "Технология",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["синфи 6", "класс 6"]
+    },
+    {
+      "id": "book_008",
+      "title": "Забони англисӣ",
+      "author": "Забони англисӣ",
+      "url": "https://maorif.tj/storage/libraries/01JBBBEVNSGBCAX6WWJDM4K6XY.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01JBBBEVNYQH6QCEWZAYMT1KP8.jpg",
+      "description": "Забони англисӣ",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["синфи 6", "класс 6"]
     }
   ]
 }
