@@ -10,6 +10,94 @@
       "language": "tj",
       "year": 2025,
       "tags": ["синфи 11", "класс 11"]
+    },
+    {
+      "id": "book_002",
+      "title": "Таърихи халқи тоҷик",
+      "author": "Таърихи халқи тоҷик",
+      "url": "https://maorif.tj/storage/libraries/01J3EZ9T0AGAHPFBHZXC5B8Q3B.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01J3EZ9T0EAZZP5KBKKXQ2PSFA.jpg",
+      "description": "Таърихи халқи тоҷик",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["синфи 11", "класс 11"]
+    },
+    {
+      "id": "book_003",
+      "title": "Алгебра",
+      "author": "Алгебра",
+      "url": "https://maorif.tj/storage/libraries/01J3F0EHG4EDJ0MQ65X005SKMC.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01J3F0EHGFTDR0C7K5GEHFN796.jpg",
+      "description": "Алгебра",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["синфи 11", "класс 11"]
+    },
+    {
+      "id": "book_004",
+      "title": "Асосҳои иқтисодиёт",
+      "author": "Асосҳои иқтисодиёт",
+      "url": "https://maorif.tj/storage/libraries/01J3F0M5N1EHM13WTEB2D4JBE8.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01J3F0M5N4KT890DK3GV29RF8V.jpg",
+      "description": "Асосҳои иқтисодиёт",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["синфи 11", "класс 11"]
+    },
+    {
+      "id": "book_005",
+      "title": "Химия",
+      "author": "Химия",
+      "url": "https://maorif.tj/storage/libraries/01J3F3A97Y0DFV5QCJ68Z26KT0.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01J3F3A98K8TBZ0XS2B48TBC14.jpg",
+      "description": "Химия",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["синфи 11", "класс 11"]
+    },
+    {
+      "id": "book_006",
+      "title": "Алгебра 2025",
+      "author": "Алгебра 2025",
+      "url": "https://maorif.tj/storage/libraries/01KH8KZD6DDWJ0VAGJJ5EB7Z3W.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01KH8KZD6JKR8D2J6JN33EB1RN.png",
+      "description": "Алгебра 2025",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["синфи 11", "класс 11"]
+    },
+    {
+      "id": "book_007",
+      "title": "Гометрия 2025",
+      "author": "Гометрия 2025",
+      "url": "https://maorif.tj/storage/libraries/01KH8MCW3H19TNHZNF9HKC0QCP.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01KH8MCW3Y4RWRCF11HZ3PFBEF.png",
+      "description": "Гометрия 2025",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["синфи 11", "класс 11"]
+    },
+    {
+      "id": "book_008",
+      "title": "Омодагии ДХ 2025",
+      "author": "Омодагии ДХ 2025",
+      "url": "https://maorif.tj/storage/libraries/01KH8MJ8GKYQA2J6TQCPNCEWAJ.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01KH8MJ8GXSSGXS5AC75KBKXF5.png",
+      "description": "Омодагии ДХ 2025",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["синфи 11", "класс 11"]
+    },
+    {
+      "id": "book_009",
+      "title": "Адабиет 2025",
+      "author": "Адабиет 2025",
+      "url": "https://maorif.tj/storage/libraries/01KH8MQHJJBRM70Q8FXHNNCGV5.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01KH8MN64AZAAY4H2T7H9579MH.png",
+      "description": "Адабиет 2025",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["синфи 11", "класс 11"]
     }
   ]
 }
