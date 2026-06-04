@@ -10,6 +10,94 @@
       "language": "tj",
       "year": 2025,
       "tags": ["синфи 10", "класс 10"]
+    },
+    {
+      "id": "book_002",
+      "title": "Химияи органикӣ",
+      "author": "Химияи органикӣ",
+      "url": "https://maorif.tj/storage/libraries/01J3F104CPT24C79K9RYZMDCKK.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01J3F3QC69R2K9FFE2QRYPSX1W.jpg",
+      "description": "Химияи органикӣ",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["синфи 10", "класс 10"]
+    },
+    {
+      "id": "book_003",
+      "title": "География",
+      "author": "География",
+      "url": "https://maorif.tj/storage/libraries/01J3F131C9FCRDCMY9NR2W0F6Z.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01J3F131CTFW9XBMFS8XYQPVM7.jpg",
+      "description": "География",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["синфи 10", "класс 10"]
+    },
+    {
+      "id": "book_004",
+      "title": "Таърихи умумӣ",
+      "author": "Таърихи умумӣ",
+      "url": "https://maorif.tj/storage/libraries/01J3F16H8YQB2QV7BM6JB2MHX9.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01J3F16H98G6ZFX21BTF1WGV17.jpg",
+      "description": "Таърихи умумӣ",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["синфи 10", "класс 10"]
+    },
+    {
+      "id": "book_005",
+      "title": "Русский язык",
+      "author": "Русский язык",
+      "url": "https://maorif.tj/storage/libraries/01J3F1AXRJY6JNNWR7M00MMN5R.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01J3F1AXRQX4QB1FTPAF26GMGD.jpg",
+      "description": "Русский язык",
+      "language": "ru",
+      "year": 2025,
+      "tags": ["синфи 10", "класс 10"]
+    },
+    {
+      "id": "book_006",
+      "title": "Технология",
+      "author": "Технология",
+      "url": "https://maorif.tj/storage/libraries/01J3F1D2NYSWGKB8Z5SJV8N8PM.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01J3F1D2P20ZMPM6PZ5EQFTPHJ.jpg",
+      "description": "Технология",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["синфи 10", "класс 10"]
+    },
+    {
+      "id": "book_007",
+      "title": "Маърифати оиладорӣ",
+      "author": "Маърифати оиладорӣ",
+      "url": "https://maorif.tj/storage/libraries/01J3F1H6DRTKGQSPWX8DK8C74F.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01J3F1H6DVJ4T6CP0JDF53X3J0.jpg",
+      "description": "Маърифати оиладорӣ",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["синфи 10", "класс 10"]
+    },
+    {
+      "id": "book_008",
+      "title": "Алгебра",
+      "author": "Алгебра",
+      "url": "https://maorif.tj/storage/libraries/01JBBSGHWHX7ECNAD1C28TJBSW.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01JBBSGHX8HJJK7HYSF6DKW5R7.jpg",
+      "description": "Алгебра",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["синфи 10", "класс 10"]
+    },
+    {
+      "id": "book_009",
+      "title": "Забони тоҷикӣ",
+      "author": "Забони тоҷикӣ",
+      "url": "https://maorif.tj/storage/libraries/01JBBSKAK3V49P8ZE2JHE1TFC5.pdf", 
+      "image_url": "https://maorif.tj/storage/libraries/01JBBSKANB5BRTW1K7DCK3CQA7.jpg",
+      "description": "Забони тоҷикӣ",
+      "language": "tj",
+      "year": 2025,
+      "tags": ["синфи 10", "класс 10"]
     }
   ]
 }
