@@ -51,6 +51,19 @@
       "competition_id": "comp_02",
       "nomination_id": "nom_05",
       "tags": ["китоб", "книги", "Аҳмади Дониш"]
+    },
+    {
+      "id": "book_005",
+      "title": "Бачаҳои хуб",
+      "author": "Алӣ Бобоҷон",
+      "url": "https://kitobkhon.net/wp-content/uploads/2026/02/kitobkhon-net-bachahoi-khub.pdf",
+      "image_url": "https://kitobkhon.net/wp-content/uploads/2026/02/kitobkhon-net-bachahoi-khub.jpg",
+      "description": "Адабиёти бачагона, Шеър",
+      "language": "tj",
+      "year": 1963,
+      "competition_id": "comp_02",
+      "nomination_id": "nom_05",
+      "tags": ["китоб", "книги", "Алӣ Бобоҷон"]
     }
   ]
 }
