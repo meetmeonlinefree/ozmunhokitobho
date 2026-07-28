@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "id": "1",
+    "title": "«ТОҶИКОН»-и БОБОҶОН ҒАФУРОВ",
+    "videosCount": 120,
+    "imageUrl": "https://i.ytimg.com/vi/1aZAnbkzWJw/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4EgALoAooCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLA80uRU3HXQMQL3K_67QeoIYWCqbg"
+  },
+  {
+    "id": "2",
+    "title": "«КАЙФАР»-и ДИЛОВАР МИРЗО",
+    "videosCount": 30,
+    "imageUrl": "https://i.ytimg.com/vi/KcWVyzfLQv0/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4EgALoAooCDAgAEAEYJiBlKD4wDw==&rs=AOn4CLAUAOaFvj6D93CxZ22xGpaGT54VNg"
+  },
+  {
+    "id": "3",
+    "title": "«БӮСТОН»-и САЪДИИ ШЕРОЗӢ",
+    "videosCount": 30,
+    "imageUrl": "https://i.ytimg.com/vi/U-fEaIjHWVg/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4EgALoAooCDAgAEAEYESBiKHIwDw==&rs=AOn4CLC38htihGmXu3C1l0bc_kE4A6hqXg"
+  },
+  {
+    "id": "4",
+    "title": "«ШОҲНОМА»-и АБУЛҚОСИМ ФИРДАВСӢ",
+    "videosCount": 220,
+    "imageUrl": "https://i.ytimg.com/vi/S7Y8GZe0ZZM/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4EgALoAooCDAgAEAEYfyAgKBgwDw==&rs=AOn4CLBWfh-wOvuzsP7mkTOaGBWbr-Zudg"
+  },
+  {
+    "id": "5",
+    "title": "«ПАЙРОҲАИ ҚИСМАТ»-и АЪЗАМ СИДҚӢ",
+    "videosCount": 20,
+    "imageUrl": "https://i.ytimg.com/vi/4f9cvDCiYzQ/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4EgALoAooCDAgAEAEYEyAsKH8wDw==&rs=AOn4CLA_S85Q_RiBaK2l4bSJFi5buG5ZIg"
+  },
+  {
+    "id": "6",
+    "title": "«ЁДДОШТҲО»-и САДРИДДИН АЙНӢ",
+    "videosCount": 121,
+    "imageUrl": "https://i.ytimg.com/vi/yHP-wXArNV8/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4EgALoAooCDAgAEAEYDyBlKFkwDw==&rs=AOn4CLD4PLeaO31AI6F3kr-4KteUYHCUhQ"
+  }
+]
