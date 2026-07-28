@@ -2,25 +2,25 @@
   "audiobooks": [
     {
       "id": "1",
-      "title": "Гуфтори 1",
-      "author": "Абулкосими Фирдавси",
-      "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori3.mp3",
-      "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/main/audio_image/guftori1.jpg",
-      "description": "Короткие сказки для детей",
-      "language": "ru",
-      "year": 2020,
-      "tags": ["детская литература", "сказки"]
+      "title": "КАЙФАР-и ДИЛОВАР МИРЗО - ГУФТОРИ 1",
+      "author": "ДИЛОВАР МИРЗО",
+      "url": "https://raw.githubusercontent.com/meetmeonlinefree/ovak_video/refs/heads/main/kayfar/guftori_1.mp3",
+      "image_url": "https://i.ytimg.com/vi/KcWVyzfLQv0/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC6AKKAgwIABABGCYgZSg-MA8=&rs=AOn4CLAkrazZ6yagt5tNPNVe65L3dacaGg",
+      "description": "Кайфар -  китоби рӯзноманигор ва нависанда Диловар Мирзо аз ҳаёт ва рӯзгори Қаҳрамони Тоҷикистон, фарзанди фарзонаву баруманди миллати тоҷик, нахустин роҳбари  Ҷумҳурии Шӯравии Сотсиалистии Тоҷикистон Нусратулло Махсум (1881-1937) ҳикоят мекунад.",
+      "language": "tg",
+      "year": 2026,
+      "tags": ["литература"]
     },
     {
       "id": "2",
-      "title": "Гуфтори 2",
-      "author": "Абулкосими Фирдавси",
-      "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori4.mp3",
-      "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/main/audio_image/guftori1.jpg",
-      "description": "Описание...",
-      "language": "ru",
-      "year": 2021,
-      "tags": ["сказки"]
+      "title": "КАЙФАР-и ДИЛОВАР МИРЗО - ГУФТОРИ 2",
+      "author": "ДИЛОВАР МИРЗО",
+      "url": "https://raw.githubusercontent.com/meetmeonlinefree/ovak_video/refs/heads/main/kayfar/guftori_2.mp3",
+      "image_url": "https://i.ytimg.com/vi/d-wXRZl7NWQ/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC6AKKAgwIABABGCYgZSg-MA8=&rs=AOn4CLAz8NK5Uq6c1duF6FXv8q6HVBkdew",
+      "description": "Кайфар -  китоби рӯзноманигор ва нависанда Диловар Мирзо аз ҳаёт ва рӯзгори Қаҳрамони Тоҷикистон, фарзанди фарзонаву баруманди миллати тоҷик, нахустин роҳбари  Ҷумҳурии Шӯравии Сотсиалистии Тоҷикистон Нусратулло Махсум (1881-1937) ҳикоят мекунад.",
+      "language": "tg",
+      "year": 2026,
+      "tags": ["литература"]
     }
   ]
 }
