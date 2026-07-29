@@ -1,26 +1,3070 @@
 {
-  "audiobooks": [
-    {
-      "id": "1",
-      "title": "Гуфтори 1",
-      "author": "Абулкосими Фирдавси",
-      "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori1.mp3",
-      "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/main/audio_image/guftori1.jpg",
-      "description": "Короткие сказки для детей",
-      "language": "ru",
-      "year": 2020,
-      "tags": ["детская литература", "сказки"]
-    },
-    {
-      "id": "2",
-      "title": "Гуфтори 2",
-      "author": "Абулкосими Фирдавси",
-      "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori2.mp3",
-      "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/main/audio_image/guftori1.jpg",
-      "description": "Описание...",
-      "language": "ru",
-      "year": 2021,
-      "tags": ["сказки"]
-    }
-  ]
+    "audiobooks": [
+        {
+            "id": "1",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 1",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori1.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori1.jpg",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 1.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "2",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 2",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori2.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori2.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 2.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "3",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 3",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori3.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori3.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 3.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "4",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 4",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori4.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori4.webp",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 4.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "5",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 5",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori5.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori5.webp",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 5.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "6",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 6",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori6.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori6.webp",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 6.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "7",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 7",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori7.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori7.webp",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 7.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "8",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 8",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori8.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori8.webp",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 8.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "9",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 9",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori9.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori9.webp",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 9.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "10",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 10",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori10.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori10.webp",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 10.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "11",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 11",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori11.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori11.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 11.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "12",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 12",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori12.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori12.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 12.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "13",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 13",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori13.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori13.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 13.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "14",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 14",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori14.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori14.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 14.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "15",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 15",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori15.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori15.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 15.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "16",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 16",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori16.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori16.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 16.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "17",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 17",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori17.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori17.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 17.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "18",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 18",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori18.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori18.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 18.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "19",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 19",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori19.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori19.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 19.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "20",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 20",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori20.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori20.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 20.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "21",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 21",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori21.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori21.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 21.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "22",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 22",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori22.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori22.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 22.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "23",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 23",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori23.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori23.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 23.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "24",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 24",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori24.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori24.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 24.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "25",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 25",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori25.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori25.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 25.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "26",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 26",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori26.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori26.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 26.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "27",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 27",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori27.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori27.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 27.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "28",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 28",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori28.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori28.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 28.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "29",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 29",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori29.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori29.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 29.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "30",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 30",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori30.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori30.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 30.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "31",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 31",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori31.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori31.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 31.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "32",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 32",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori32.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori32.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 32.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "33",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 33",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori33.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori33.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 33.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "34",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 34",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori34.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori34.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 34.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "35",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 35",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori35.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori35.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 35.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "36",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 36",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori36.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori36.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 36.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "37",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 37",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori37.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori37.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 37.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "38",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 38",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori38.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori38.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 38.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "39",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 39",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori39.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori39.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 39.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "40",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 40",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori40.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori40.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 40.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "41",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 41",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori41.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori41.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 41.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "42",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 42",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori42.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori42.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 42.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "43",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 43",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori43.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori43.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 43.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "44",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 44",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori44.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori44.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 44.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "45",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 45",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori45.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori45.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 45.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "46",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 46",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori46.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori46.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 46.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "47",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 47",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori47.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori47.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 47.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "48",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 48",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori48.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori48.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 48.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "49",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 49",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori49.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori49.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 49.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "50",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 50",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori50.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori50.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 50.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "51",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 51",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori51.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori51.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 51.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "52",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 52",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori52.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori52.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 52.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "53",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 53",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori53.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori53.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 53.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "54",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 54",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori54.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori54.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 54.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "55",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 55",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori55.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori55.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 55.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "56",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 56",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori56.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori56.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 56.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "57",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 57",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori57.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori57.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 57.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "58",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 58",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori58.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori58.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 58.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "59",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 59",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori59.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori59.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 59.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "60",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 60",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori60.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori60.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 60.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "61",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 61",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori61.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori61.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 61.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "62",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 62",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori62.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori62.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 62.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "63",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 63",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori63.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori63.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 63.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "64",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 64",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori64.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori64.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 64.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "65",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 65",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori65.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori65.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 65.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "66",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 66",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori66.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori66.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 66.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "67",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 67",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori67.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori67.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 67.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "68",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 68",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori68.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori68.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 68.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "69",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 69",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori69.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori69.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 69.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "70",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 70",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori70.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori70.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 70.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "71",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 71",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori71.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori71.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 71.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "72",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 72",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori72.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori72.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 72.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "73",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 73",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori73.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori73.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 73.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "74",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 74",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori74.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori74.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 74.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "75",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 75",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori75.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori75.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 75.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "76",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 76",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori76.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori76.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 76.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "77",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 77",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori77.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori77.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 77.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "78",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 78",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori78.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori78.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 78.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "79",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 79",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori79.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori79.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 79.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "80",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 80",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori80.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori80.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 80.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "81",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 81",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori81.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori81.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 81.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "82",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 82",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori82.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori82.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 82.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "83",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 83",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori83.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori83.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 83.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "84",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 84",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori84.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori84.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 84.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "85",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 85",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori85.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori85.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 85.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "86",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 86",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori86.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori86.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 86.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "87",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 87",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori87.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori87.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 87.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "88",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 88",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori88.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori88.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 88.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "89",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 89",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori89.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori89.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 89.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "90",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 90",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori90.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori90.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 90.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "91",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 91",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori91.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori91.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 91.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "92",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 92",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori92.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori92.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 92.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "93",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 93",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori93.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori93.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 93.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "94",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 94",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori94.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori94.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 94.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "95",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 95",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori95.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori95.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 95.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "96",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 96",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori96.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori96.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 96.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "97",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 97",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori97.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori97.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 97.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "98",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 98",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori98.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori98.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 98.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "99",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 99",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori99.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori99.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 99.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "100",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 100",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori100.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori100.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 100.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "101",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 101",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori101.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori101.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 101.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "102",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 102",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori102.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori102.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 102.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "103",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 103",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori103.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori103.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 103.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "104",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 104",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori104.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori104.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 104.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "105",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 105",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori105.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori105.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 105.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "106",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 106",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori106.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori106.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 106.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "107",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 107",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori107.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori107.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 107.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "108",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 108",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori108.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori108.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 108.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "109",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 109",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori109.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori109.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 109.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "110",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 110",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori110.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori110.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 110.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "111",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 111",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori111.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori111.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 111.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "112",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 112",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori112.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori112.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 112.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "113",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 113",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori113.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori113.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 113.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "114",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 114",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori114.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori114.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 114.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "115",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 115",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori115.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori115.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 115.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "116",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 116",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori116.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori116.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 116.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "117",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 117",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori117.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori117.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 117.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "118",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 118",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori118.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori118.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 118.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "119",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 119",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori119.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori119.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 119.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "120",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 120",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori120.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori120.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 120.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "121",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 121",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori121.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori121.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 121.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "122",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 122",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori122.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori122.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 122.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "123",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 123",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori123.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori123.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 123.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "124",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 124",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori124.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori124.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 124.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "125",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 125",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori125.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori125.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 125.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "126",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 126",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori126.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori126.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 126.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "127",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 127",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori127.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori127.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 127.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "128",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 128",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori128.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori128.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 128.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "129",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 129",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori129.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori129.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 129.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "131",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 131",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori131.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori131.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 131.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "132",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 132",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori132.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori132.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 132.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "133",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 133",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori133.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori133.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 133.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "134",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 134",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori134.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori134.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 134.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "135",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 135",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori135.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori135.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 135.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "136",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 136",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori136.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori136.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 136.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "137",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 137",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori137.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori137.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 137.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "138",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 138",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori138.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori138.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 138.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "139",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 139",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori139.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori139.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 139.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "140",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 140",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori140.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori140.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 140.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "141",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 141",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori141.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori141.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 141.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "142",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 142",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori142.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori142.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 142.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "143",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 143",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori143.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori143.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 143.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "144",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 144",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori144.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori144.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 144.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "145",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 145",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori145.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori145.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 145.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "146",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 146",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori146.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori146.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 146.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "147",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 147",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori147.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori147.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 147.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "148",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 148",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori148.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori148.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 148.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "149",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 149",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori149.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori149.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 149.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "150",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 150",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori150.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori150.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 150.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "151",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 151",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori151.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori151.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 151.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "152",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 152",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori152.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori152.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 152.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "153",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 153",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori153.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori153.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 153.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "154",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 154",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori154.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori154.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 154.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "155",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 155",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori155.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori155.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 155.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "156",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 156",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori156.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori156.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 156.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "157",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 157",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori157.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori157.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 157.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "158",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 158",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori158.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori158.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 158.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "159",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 159",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori159.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori159.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 159.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "160",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 160",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori160.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori160.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 160.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "162",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 162",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori162.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori162.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 162.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "163",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 163",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori163.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori163.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 163.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "164",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 164",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori164.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori164.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 164.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "165",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 165",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori165.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori165.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 165.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "166",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 166",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori166.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori166.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 166.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "167",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 167",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori167.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori167.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 167.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "168",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 168",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori168.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori168.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 168.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "169",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 169",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori169.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori169.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 169.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "170",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 170",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori170.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori170.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 170.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "171",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 171",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori171.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori171.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 171.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "172",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 172",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori172.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori172.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 172.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "173",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 173",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori173.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori173.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 173.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "174",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 174",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori174.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori174.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 174.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "175",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 175",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori175.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori175.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 175.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "176",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 176",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori176.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori176.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 176.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "177",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 177",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori177.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori177.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 177.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "178",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 178",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori178.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori178.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 178.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "179",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 179",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori179.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori179.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 179.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "180",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 180",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori180.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori180.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 180.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "181",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 181",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori181.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori181.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 181.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "182",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 182",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori182.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori182.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 182.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "183",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 183",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori183.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori183.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 183.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "184",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 184",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori184.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori184.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 184.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "185",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 185",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori185.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori185.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 185.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "186",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 186",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori186.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori186.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 186.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "187",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 187",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori187.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori187.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 187.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "188",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 188",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori188.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori188.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 188.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "189",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 189",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori189.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori189.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 189.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "190",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 190",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori190.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori190.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 190.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "191",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 191",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori191.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori191.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 191.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "192",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 192",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori192.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori192.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 192.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "193",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 193",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori193.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori193.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 193.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "194",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 194",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori194.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori194.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 194.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "195",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 195",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori195.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori195.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 195.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "196",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 196",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori196.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori196.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 196.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "197",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 197",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori197.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori197.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 197.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "198",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 198",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori198.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori198.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 198.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "199",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 199",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori199.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori199.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 199.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "200",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 200",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori200.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori200.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 200.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "201",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 201",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori201.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori201.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 201.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "202",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 202",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori202.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori202.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 202.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "203",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 203",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori203.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori203.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 203.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "204",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 204",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori204.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori204.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 204.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "205",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 205",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori205.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori205.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 205.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "206",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 206",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori206.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori206.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 206.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "207",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 207",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori207.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori207.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 207.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "208",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 208",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori208.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori208.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 208.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "209",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 209",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori209.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori209.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 209.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "210",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 210",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori210.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori210.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 210.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "211",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 211",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori211.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori211.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 211.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "212",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 212",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori212.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori212.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 212.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "213",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 213",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori213.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori213.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 213.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "214",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 214",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori214.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori214.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 214.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "215",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 215",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori215.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori215.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 215.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "216",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 216",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori216.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori216.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 216.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "217",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 217",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori217.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori217.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 217.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "218",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 218",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori218.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori218.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 218.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "219",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 219",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori219.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori219.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 219.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "220",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 220",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori220.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori220.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 220.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "221",
+            "title": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ - ГУФТОРИ 221",
+            "author": "АБУЛҚОСИМ ФИРДАВСӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori221.mp3",
+            "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori221.avif",
+            "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 221.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        }
+    ]
 }
