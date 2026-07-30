@@ -1,26 +1,606 @@
 {
-  "audiobooks": [
-    {
-      "id": "1",
-      "title": "Гуфтори 1",
-      "author": "Абулкосими Фирдавси",
-      "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori1.mp3",
-      "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/main/audio_image/guftori1.jpg",
-      "description": "Короткие сказки для детей",
-      "language": "ru",
-      "year": 2020,
-      "tags": ["детская литература", "сказки"]
-    },
-    {
-      "id": "2",
-      "title": "Гуфтори 2",
-      "author": "Абулкосими Фирдавси",
-      "url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori2.mp3",
-      "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/main/audio_image/guftori1.jpg",
-      "description": "Описание...",
-      "language": "ru",
-      "year": 2021,
-      "tags": ["сказки"]
-    }
-  ]
+    "audiobooks": [
+        {
+            "id": "1",
+            "title": "ЁДДОШТҲО-и САДРИДДИН АЙНӢ - ГУФТОРИ 1",
+            "author": "САДРИДДИН АЙНӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/ovak_video/refs/heads/main/yoddoshtho/guftori_1.mp3",
+            "image_url": "https://i.ytimg.com/vi/GBbCmx9_ff4/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4EgALoAooCDAgAEAEYciBdKD0wDw==&rs=AOn4CLBIPgsu1KK3wS1bRKtXubqgNDCn8w",
+            "description": "Асари Ёддоштҳо-и Садриддин Айнӣ яке аз муҳимтарин осори адабиёти тоҷик ба шумор меравад.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "2",
+            "title": "ЁДДОШТҲО-и САДРИДДИН АЙНӢ - ГУФТОРИ 2",
+            "author": "САДРИДДИН АЙНӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/ovak_video/refs/heads/main/yoddoshtho/guftori_2.mp3",
+            "image_url": "https://i.ytimg.com/vi/GBbCmx9_ff4/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4EgALoAooCDAgAEAEYciBdKD0wDw==&rs=AOn4CLBIPgsu1KK3wS1bRKtXubqgNDCn8w",
+            "description": "Асари Ёддоштҳо-и Садриддин Айнӣ яке аз муҳимтарин осори адабиёти тоҷик ба шумор меравад.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "3",
+            "title": "ЁДДОШТҲО-и САДРИДДИН АЙНӢ - ГУФТОРИ 3",
+            "author": "САДРИДДИН АЙНӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/ovak_video/refs/heads/main/yoddoshtho/guftori_3.mp3",
+            "image_url": "https://i.ytimg.com/vi/GBbCmx9_ff4/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4EgALoAooCDAgAEAEYciBdKD0wDw==&rs=AOn4CLBIPgsu1KK3wS1bRKtXubqgNDCn8w",
+            "description": "Асари Ёддоштҳо-и Садриддин Айнӣ яке аз муҳимтарин осори адабиёти тоҷик ба шумор меравад.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "4",
+            "title": "ЁДДОШТҲО-и САДРИДДИН АЙНӢ - ГУФТОРИ 4",
+            "author": "САДРИДДИН АЙНӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/ovak_video/refs/heads/main/yoddoshtho/guftori_4.mp3",
+            "image_url": "https://i.ytimg.com/vi/GBbCmx9_ff4/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4EgALoAooCDAgAEAEYciBdKD0wDw==&rs=AOn4CLBIPgsu1KK3wS1bRKtXubqgNDCn8w",
+            "description": "Асари Ёддоштҳо-и Садриддин Айнӣ яке аз муҳимтарин осори адабиёти тоҷик ба шумор меравад.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "5",
+            "title": "ЁДДОШТҲО-и САДРИДДИН АЙНӢ - ГУФТОРИ 5",
+            "author": "САДРИДДИН АЙНӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/ovak_video/refs/heads/main/yoddoshtho/guftori_5.mp3",
+            "image_url": "https://i.ytimg.com/vi/GBbCmx9_ff4/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4EgALoAooCDAgAEAEYciBdKD0wDw==&rs=AOn4CLBIPgsu1KK3wS1bRKtXubqgNDCn8w",
+            "description": "Асари Ёддоштҳо-и Садриддин Айнӣ яке аз муҳимтарин осори адабиёти тоҷик ба шумор меравад.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "6",
+            "title": "ЁДДОШТҲО-и САДРИДДИН АЙНӢ - ГУФТОРИ 6",
+            "author": "САДРИДДИН АЙНӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/ovak_video/refs/heads/main/yoddoshtho/guftori_6.mp3",
+            "image_url": "https://i.ytimg.com/vi/GBbCmx9_ff4/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4EgALoAooCDAgAEAEYciBdKD0wDw==&rs=AOn4CLBIPgsu1KK3wS1bRKtXubqgNDCn8w",
+            "description": "Асари Ёддоштҳо-и Садриддин Айнӣ яке аз муҳимтарин осори адабиёти тоҷик ба шумор меравад.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "7",
+            "title": "ЁДДОШТҲО-и САДРИДДИН АЙНӢ - ГУФТОРИ 7",
+            "author": "САДРИДДИН АЙНӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/ovak_video/refs/heads/main/yoddoshtho/guftori_7.mp3",
+            "image_url": "https://i.ytimg.com/vi/GBbCmx9_ff4/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4EgALoAooCDAgAEAEYciBdKD0wDw==&rs=AOn4CLBIPgsu1KK3wS1bRKtXubqgNDCn8w",
+            "description": "Асари Ёддоштҳо-и Садриддин Айнӣ яке аз муҳимтарин осори адабиёти тоҷик ба шумор меравад.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "8",
+            "title": "ЁДДОШТҲО-и САДРИДДИН АЙНӢ - ГУФТОРИ 8",
+            "author": "САДРИДДИН АЙНӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/ovak_video/refs/heads/main/yoddoshtho/guftori_8.mp3",
+            "image_url": "https://i.ytimg.com/vi/GBbCmx9_ff4/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4EgALoAooCDAgAEAEYciBdKD0wDw==&rs=AOn4CLBIPgsu1KK3wS1bRKtXubqgNDCn8w",
+            "description": "Асари Ёддоштҳо-и Садриддин Айнӣ яке аз муҳимтарин осори адабиёти тоҷик ба шумор меравад.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "11",
+            "title": "ЁДДОШТҲО-и САДРИДДИН АЙНӢ - ГУФТОРИ 11",
+            "author": "САДРИДДИН АЙНӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/ovak_video/refs/heads/main/yoddoshtho/guftori_11.mp3",
+            "image_url": "https://i.ytimg.com/vi/GBbCmx9_ff4/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4EgALoAooCDAgAEAEYciBdKD0wDw==&rs=AOn4CLBIPgsu1KK3wS1bRKtXubqgNDCn8w",
+            "description": "Асари Ёддоштҳо-и Садриддин Айнӣ яке аз муҳимтарин осори адабиёти тоҷик ба шумор меравад.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "12",
+            "title": "ЁДДОШТҲО-и САДРИДДИН АЙНӢ - ГУФТОРИ 12",
+            "author": "САДРИДДИН АЙНӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/ovak_video/refs/heads/main/yoddoshtho/guftori_12.mp3",
+            "image_url": "https://i.ytimg.com/vi/GBbCmx9_ff4/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4EgALoAooCDAgAEAEYciBdKD0wDw==&rs=AOn4CLBIPgsu1KK3wS1bRKtXubqgNDCn8w",
+            "description": "Асари Ёддоштҳо-и Садриддин Айнӣ яке аз муҳимтарин осори адабиёти тоҷик ба шумор меравад.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "13",
+            "title": "ЁДДОШТҲО-и САДРИДДИН АЙНӢ - ГУФТОРИ 13",
+            "author": "САДРИДДИН АЙНӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/ovak_video/refs/heads/main/yoddoshtho/guftori_13.mp3",
+            "image_url": "https://i.ytimg.com/vi/GBbCmx9_ff4/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4EgALoAooCDAgAEAEYciBdKD0wDw==&rs=AOn4CLBIPgsu1KK3wS1bRKtXubqgNDCn8w",
+            "description": "Асари Ёддоштҳо-и Садриддин Айнӣ яке аз муҳимтарин осори адабиёти тоҷик ба шумор меравад.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "14",
+            "title": "ЁДДОШТҲО-и САДРИДДИН АЙНӢ - ГУФТОРИ 14",
+            "author": "САДРИДДИН АЙНӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/ovak_video/refs/heads/main/yoddoshtho/guftori_14.mp3",
+            "image_url": "https://i.ytimg.com/vi/GBbCmx9_ff4/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4EgALoAooCDAgAEAEYciBdKD0wDw==&rs=AOn4CLBIPgsu1KK3wS1bRKtXubqgNDCn8w",
+            "description": "Асари Ёддоштҳо-и Садриддин Айнӣ яке аз муҳимтарин осори адабиёти тоҷик ба шумор меравад.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "15",
+            "title": "ЁДДОШТҲО-и САДРИДДИН АЙНӢ - ГУФТОРИ 15",
+            "author": "САДРИДДИН АЙНӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/ovak_video/refs/heads/main/yoddoshtho/guftori_15.mp3",
+            "image_url": "https://i.ytimg.com/vi/GBbCmx9_ff4/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4EgALoAooCDAgAEAEYciBdKD0wDw==&rs=AOn4CLBIPgsu1KK3wS1bRKtXubqgNDCn8w",
+            "description": "Асари Ёддоштҳо-и Садриддин Айнӣ яке аз муҳимтарин осори адабиёти тоҷик ба шумор меравад.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "16",
+            "title": "ЁДДОШТҲО-и САДРИДДИН АЙНӢ - ГУФТОРИ 16",
+            "author": "САДРИДДИН АЙНӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/ovak_video/refs/heads/main/yoddoshtho/guftori_16.mp3",
+            "image_url": "https://i.ytimg.com/vi/GBbCmx9_ff4/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4EgALoAooCDAgAEAEYciBdKD0wDw==&rs=AOn4CLBIPgsu1KK3wS1bRKtXubqgNDCn8w",
+            "description": "Асари Ёддоштҳо-и Садриддин Айнӣ яке аз муҳимтарин осори адабиёти тоҷик ба шумор меравад.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "17",
+            "title": "ЁДДОШТҲО-и САДРИДДИН АЙНӢ - ГУФТОРИ 17",
+            "author": "САДРИДДИН АЙНӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/ovak_video/refs/heads/main/yoddoshtho/guftori_17.mp3",
+            "image_url": "https://i.ytimg.com/vi/GBbCmx9_ff4/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4EgALoAooCDAgAEAEYciBdKD0wDw==&rs=AOn4CLBIPgsu1KK3wS1bRKtXubqgNDCn8w",
+            "description": "Асари Ёддоштҳо-и Садриддин Айнӣ яке аз муҳимтарин осори адабиёти тоҷик ба шумор меравад.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "18",
+            "title": "ЁДДОШТҲО-и САДРИДДИН АЙНӢ - ГУФТОРИ 18",
+            "author": "САДРИДДИН АЙНӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/ovak_video/refs/heads/main/yoddoshtho/guftori_18.mp3",
+            "image_url": "https://i.ytimg.com/vi/GBbCmx9_ff4/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4EgALoAooCDAgAEAEYciBdKD0wDw==&rs=AOn4CLBIPgsu1KK3wS1bRKtXubqgNDCn8w",
+            "description": "Асари Ёддоштҳо-и Садриддин Айнӣ яке аз муҳимтарин осори адабиёти тоҷик ба шумор меравад.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "19",
+            "title": "ЁДДОШТҲО-и САДРИДДИН АЙНӢ - ГУФТОРИ 19",
+            "author": "САДРИДДИН АЙНӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/ovak_video/refs/heads/main/yoddoshtho/guftori_19.mp3",
+            "image_url": "https://i.ytimg.com/vi/GBbCmx9_ff4/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4EgALoAooCDAgAEAEYciBdKD0wDw==&rs=AOn4CLBIPgsu1KK3wS1bRKtXubqgNDCn8w",
+            "description": "Асари Ёддоштҳо-и Садриддин Айнӣ яке аз муҳимтарин осори адабиёти тоҷик ба шумор меравад.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "20",
+            "title": "ЁДДОШТҲО-и САДРИДДИН АЙНӢ - ГУФТОРИ 20",
+            "author": "САДРИДДИН АЙНӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/ovak_video/refs/heads/main/yoddoshtho/guftori_20.mp3",
+            "image_url": "https://i.ytimg.com/vi/GBbCmx9_ff4/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4EgALoAooCDAgAEAEYciBdKD0wDw==&rs=AOn4CLBIPgsu1KK3wS1bRKtXubqgNDCn8w",
+            "description": "Асари Ёддоштҳо-и Садриддин Айнӣ яке аз муҳимтарин осори адабиёти тоҷик ба шумор меравад.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "21",
+            "title": "ЁДДОШТҲО-и САДРИДДИН АЙНӢ - ГУФТОРИ 21",
+            "author": "САДРИДДИН АЙНӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/ovak_video/refs/heads/main/yoddoshtho/guftori_21.mp3",
+            "image_url": "https://i.ytimg.com/vi/GBbCmx9_ff4/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4EgALoAooCDAgAEAEYciBdKD0wDw==&rs=AOn4CLBIPgsu1KK3wS1bRKtXubqgNDCn8w",
+            "description": "Асари Ёддоштҳо-и Садриддин Айнӣ яке аз муҳимтарин осори адабиёти тоҷик ба шумор меравад.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "22",
+            "title": "ЁДДОШТҲО-и САДРИДДИН АЙНӢ - ГУФТОРИ 22",
+            "author": "САДРИДДИН АЙНӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/ovak_video/refs/heads/main/yoddoshtho/guftori_22.mp3",
+            "image_url": "https://i.ytimg.com/vi/GBbCmx9_ff4/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4EgALoAooCDAgAEAEYciBdKD0wDw==&rs=AOn4CLBIPgsu1KK3wS1bRKtXubqgNDCn8w",
+            "description": "Асари Ёддоштҳо-и Садриддин Айнӣ яке аз муҳимтарин осори адабиёти тоҷик ба шумор меравад.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "23",
+            "title": "ЁДДОШТҲО-и САДРИДДИН АЙНӢ - ГУФТОРИ 23",
+            "author": "САДРИДДИН АЙНӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/ovak_video/refs/heads/main/yoddoshtho/guftori_23.mp3",
+            "image_url": "https://i.ytimg.com/vi/GBbCmx9_ff4/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4EgALoAooCDAgAEAEYciBdKD0wDw==&rs=AOn4CLBIPgsu1KK3wS1bRKtXubqgNDCn8w",
+            "description": "Асари Ёддоштҳо-и Садриддин Айнӣ яке аз муҳимтарин осори адабиёти тоҷик ба шумор меравад.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "24",
+            "title": "ЁДДОШТҲО-и САДРИДДИН АЙНӢ - ГУФТОРИ 24",
+            "author": "САДРИДДИН АЙНӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/ovak_video/refs/heads/main/yoddoshtho/guftori_24.mp3",
+            "image_url": "https://i.ytimg.com/vi/GBbCmx9_ff4/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4EgALoAooCDAgAEAEYciBdKD0wDw==&rs=AOn4CLBIPgsu1KK3wS1bRKtXubqgNDCn8w",
+            "description": "Асари Ёддоштҳо-и Садриддин Айнӣ яке аз муҳимтарин осори адабиёти тоҷик ба шумор меравад.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "25",
+            "title": "ЁДДОШТҲО-и САДРИДДИН АЙНӢ - ГУФТОРИ 25",
+            "author": "САДРИДДИН АЙНӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/ovak_video/refs/heads/main/yoddoshtho/guftori_25.mp3",
+            "image_url": "https://i.ytimg.com/vi/GBbCmx9_ff4/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4EgALoAooCDAgAEAEYciBdKD0wDw==&rs=AOn4CLBIPgsu1KK3wS1bRKtXubqgNDCn8w",
+            "description": "Асари Ёддоштҳо-и Садриддин Айнӣ яке аз муҳимтарин осори адабиёти тоҷик ба шумор меравад.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "26",
+            "title": "ЁДДОШТҲО-и САДРИДДИН АЙНӢ - ГУФТОРИ 26",
+            "author": "САДРИДДИН АЙНӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/ovak_video/refs/heads/main/yoddoshtho/guftori_26.mp3",
+            "image_url": "https://i.ytimg.com/vi/GBbCmx9_ff4/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4EgALoAooCDAgAEAEYciBdKD0wDw==&rs=AOn4CLBIPgsu1KK3wS1bRKtXubqgNDCn8w",
+            "description": "Асари Ёддоштҳо-и Садриддин Айнӣ яке аз муҳимтарин осори адабиёти тоҷик ба шумор меравад.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "27",
+            "title": "ЁДДОШТҲО-и САДРИДДИН АЙНӢ - ГУФТОРИ 27",
+            "author": "САДРИДДИН АЙНӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/ovak_video/refs/heads/main/yoddoshtho/guftori_27.mp3",
+            "image_url": "https://i.ytimg.com/vi/GBbCmx9_ff4/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4EgALoAooCDAgAEAEYciBdKD0wDw==&rs=AOn4CLBIPgsu1KK3wS1bRKtXubqgNDCn8w",
+            "description": "Асари Ёддоштҳо-и Садриддин Айнӣ яке аз муҳимтарин осори адабиёти тоҷик ба шумор меравад.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "28",
+            "title": "ЁДДОШТҲО-и САДРИДДИН АЙНӢ - ГУФТОРИ 28",
+            "author": "САДРИДДИН АЙНӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/ovak_video/refs/heads/main/yoddoshtho/guftori_28.mp3",
+            "image_url": "https://i.ytimg.com/vi/GBbCmx9_ff4/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4EgALoAooCDAgAEAEYciBdKD0wDw==&rs=AOn4CLBIPgsu1KK3wS1bRKtXubqgNDCn8w",
+            "description": "Асари Ёддоштҳо-и Садриддин Айнӣ яке аз муҳимтарин осори адабиёти тоҷик ба шумор меравад.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "29",
+            "title": "ЁДДОШТҲО-и САДРИДДИН АЙНӢ - ГУФТОРИ 29",
+            "author": "САДРИДДИН АЙНӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/ovak_video/refs/heads/main/yoddoshtho/guftori_29.mp3",
+            "image_url": "https://i.ytimg.com/vi/GBbCmx9_ff4/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4EgALoAooCDAgAEAEYciBdKD0wDw==&rs=AOn4CLBIPgsu1KK3wS1bRKtXubqgNDCn8w",
+            "description": "Асари Ёддоштҳо-и Садриддин Айнӣ яке аз муҳимтарин осори адабиёти тоҷик ба шумор меравад.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "30",
+            "title": "ЁДДОШТҲО-и САДРИДДИН АЙНӢ - ГУФТОРИ 30",
+            "author": "САДРИДДИН АЙНӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/ovak_video/refs/heads/main/yoddoshtho/guftori_30.mp3",
+            "image_url": "https://i.ytimg.com/vi/GBbCmx9_ff4/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4EgALoAooCDAgAEAEYciBdKD0wDw==&rs=AOn4CLBIPgsu1KK3wS1bRKtXubqgNDCn8w",
+            "description": "Асари Ёддоштҳо-и Садриддин Айнӣ яке аз муҳимтарин осори адабиёти тоҷик ба шумор меравад.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "31",
+            "title": "ЁДДОШТҲО-и САДРИДДИН АЙНӢ - ГУФТОРИ 31",
+            "author": "САДРИДДИН АЙНӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/ovak_video/refs/heads/main/yoddoshtho/guftori_31.mp3",
+            "image_url": "https://i.ytimg.com/vi/GBbCmx9_ff4/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4EgALoAooCDAgAEAEYciBdKD0wDw==&rs=AOn4CLBIPgsu1KK3wS1bRKtXubqgNDCn8w",
+            "description": "Асари Ёддоштҳо-и Садриддин Айнӣ яке аз муҳимтарин осори адабиёти тоҷик ба шумор меравад.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "32",
+            "title": "ЁДДОШТҲО-и САДРИДДИН АЙНӢ - ГУФТОРИ 32",
+            "author": "САДРИДДИН АЙНӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/ovak_video/refs/heads/main/yoddoshtho/guftori_32.mp3",
+            "image_url": "https://i.ytimg.com/vi/GBbCmx9_ff4/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4EgALoAooCDAgAEAEYciBdKD0wDw==&rs=AOn4CLBIPgsu1KK3wS1bRKtXubqgNDCn8w",
+            "description": "Асари Ёддоштҳо-и Садриддин Айнӣ яке аз муҳимтарин осори адабиёти тоҷик ба шумор меравад.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "33",
+            "title": "ЁДДОШТҲО-и САДРИДДИН АЙНӢ - ГУФТОРИ 33",
+            "author": "САДРИДДИН АЙНӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/ovak_video/refs/heads/main/yoddoshtho/guftori_33.mp3",
+            "image_url": "https://i.ytimg.com/vi/GBbCmx9_ff4/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4EgALoAooCDAgAEAEYciBdKD0wDw==&rs=AOn4CLBIPgsu1KK3wS1bRKtXubqgNDCn8w",
+            "description": "Асари Ёддоштҳо-и Садриддин Айнӣ яке аз муҳимтарин осори адабиёти тоҷик ба шумор меравад.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "34",
+            "title": "ЁДДОШТҲО-и САДРИДДИН АЙНӢ - ГУФТОРИ 34",
+            "author": "САДРИДДИН АЙНӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/ovak_video/refs/heads/main/yoddoshtho/guftori_34.mp3",
+            "image_url": "https://i.ytimg.com/vi/GBbCmx9_ff4/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4EgALoAooCDAgAEAEYciBdKD0wDw==&rs=AOn4CLBIPgsu1KK3wS1bRKtXubqgNDCn8w",
+            "description": "Асари Ёддоштҳо-и Садриддин Айнӣ яке аз муҳимтарин осори адабиёти тоҷик ба шумор меравад.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "35",
+            "title": "ЁДДОШТҲО-и САДРИДДИН АЙНӢ - ГУФТОРИ 35",
+            "author": "САДРИДДИН АЙНӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/ovak_video/refs/heads/main/yoddoshtho/guftori_35.mp3",
+            "image_url": "https://i.ytimg.com/vi/GBbCmx9_ff4/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4EgALoAooCDAgAEAEYciBdKD0wDw==&rs=AOn4CLBIPgsu1KK3wS1bRKtXubqgNDCn8w",
+            "description": "Асари Ёддоштҳо-и Садриддин Айнӣ яке аз муҳимтарин осори адабиёти тоҷик ба шумор меравад.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "36",
+            "title": "ЁДДОШТҲО-и САДРИДДИН АЙНӢ - ГУФТОРИ 36",
+            "author": "САДРИДДИН АЙНӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/ovak_video/refs/heads/main/yoddoshtho/guftori_36.mp3",
+            "image_url": "https://i.ytimg.com/vi/GBbCmx9_ff4/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4EgALoAooCDAgAEAEYciBdKD0wDw==&rs=AOn4CLBIPgsu1KK3wS1bRKtXubqgNDCn8w",
+            "description": "Асари Ёддоштҳо-и Садриддин Айнӣ яке аз муҳимтарин осори адабиёти тоҷик ба шумор меравад.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "37",
+            "title": "ЁДДОШТҲО-и САДРИДДИН АЙНӢ - ГУФТОРИ 37",
+            "author": "САДРИДДИН АЙНӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/ovak_video/refs/heads/main/yoddoshtho/guftori_37.mp3",
+            "image_url": "https://i.ytimg.com/vi/GBbCmx9_ff4/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4EgALoAooCDAgAEAEYciBdKD0wDw==&rs=AOn4CLBIPgsu1KK3wS1bRKtXubqgNDCn8w",
+            "description": "Асари Ёддоштҳо-и Садриддин Айнӣ яке аз муҳимтарин осори адабиёти тоҷик ба шумор меравад.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "38",
+            "title": "ЁДДОШТҲО-и САДРИДДИН АЙНӢ - ГУФТОРИ 38",
+            "author": "САДРИДДИН АЙНӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/ovak_video/refs/heads/main/yoddoshtho/guftori_38.mp3",
+            "image_url": "https://i.ytimg.com/vi/GBbCmx9_ff4/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4EgALoAooCDAgAEAEYciBdKD0wDw==&rs=AOn4CLBIPgsu1KK3wS1bRKtXubqgNDCn8w",
+            "description": "Асари Ёддоштҳо-и Садриддин Айнӣ яке аз муҳимтарин осори адабиёти тоҷик ба шумор меравад.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "39",
+            "title": "ЁДДОШТҲО-и САДРИДДИН АЙНӢ - ГУФТОРИ 39",
+            "author": "САДРИДДИН АЙНӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/ovak_video/refs/heads/main/yoddoshtho/guftori_39.mp3",
+            "image_url": "https://i.ytimg.com/vi/GBbCmx9_ff4/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4EgALoAooCDAgAEAEYciBdKD0wDw==&rs=AOn4CLBIPgsu1KK3wS1bRKtXubqgNDCn8w",
+            "description": "Асари Ёддоштҳо-и Садриддин Айнӣ яке аз муҳимтарин осори адабиёти тоҷик ба шумор меравад.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "40",
+            "title": "ЁДДОШТҲО-и САДРИДДИН АЙНӢ - ГУФТОРИ 40",
+            "author": "САДРИДДИН АЙНӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/ovak_video/refs/heads/main/yoddoshtho/guftori_40.mp3",
+            "image_url": "https://i.ytimg.com/vi/GBbCmx9_ff4/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4EgALoAooCDAgAEAEYciBdKD0wDw==&rs=AOn4CLBIPgsu1KK3wS1bRKtXubqgNDCn8w",
+            "description": "Асари Ёддоштҳо-и Садриддин Айнӣ яке аз муҳимтарин осори адабиёти тоҷик ба шумор меравад.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "41",
+            "title": "ЁДДОШТҲО-и САДРИДДИН АЙНӢ - ГУФТОРИ 41",
+            "author": "САДРИДДИН АЙНӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/ovak_video/refs/heads/main/yoddoshtho/guftori_41.mp3",
+            "image_url": "https://i.ytimg.com/vi/GBbCmx9_ff4/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4EgALoAooCDAgAEAEYciBdKD0wDw==&rs=AOn4CLBIPgsu1KK3wS1bRKtXubqgNDCn8w",
+            "description": "Асари Ёддоштҳо-и Садриддин Айнӣ яке аз муҳимтарин осори адабиёти тоҷик ба шумор меравад.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "42",
+            "title": "ЁДДОШТҲО-и САДРИДДИН АЙНӢ - ГУФТОРИ 42",
+            "author": "САДРИДДИН АЙНӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/ovak_video/refs/heads/main/yoddoshtho/guftori_42.mp3",
+            "image_url": "https://i.ytimg.com/vi/GBbCmx9_ff4/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4EgALoAooCDAgAEAEYciBdKD0wDw==&rs=AOn4CLBIPgsu1KK3wS1bRKtXubqgNDCn8w",
+            "description": "Асари Ёддоштҳо-и Садриддин Айнӣ яке аз муҳимтарин осори адабиёти тоҷик ба шумор меравад.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "43",
+            "title": "ЁДДОШТҲО-и САДРИДДИН АЙНӢ - ГУФТОРИ 43",
+            "author": "САДРИДДИН АЙНӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/ovak_video/refs/heads/main/yoddoshtho/guftori_43.mp3",
+            "image_url": "https://i.ytimg.com/vi/GBbCmx9_ff4/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4EgALoAooCDAgAEAEYciBdKD0wDw==&rs=AOn4CLBIPgsu1KK3wS1bRKtXubqgNDCn8w",
+            "description": "Асари Ёддоштҳо-и Садриддин Айнӣ яке аз муҳимтарин осори адабиёти тоҷик ба шумор меравад.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "44",
+            "title": "ЁДДОШТҲО-и САДРИДДИН АЙНӢ - ГУФТОРИ 44",
+            "author": "САДРИДДИН АЙНӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/ovak_video/refs/heads/main/yoddoshtho/guftori_44.mp3",
+            "image_url": "https://i.ytimg.com/vi/GBbCmx9_ff4/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4EgALoAooCDAgAEAEYciBdKD0wDw==&rs=AOn4CLBIPgsu1KK3wS1bRKtXubqgNDCn8w",
+            "description": "Асари Ёддоштҳо-и Садриддин Айнӣ яке аз муҳимтарин осори адабиёти тоҷик ба шумор меравад.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        },
+        {
+            "id": "45",
+            "title": "ЁДДОШТҲО-и САДРИДДИН АЙНӢ - ГУФТОРИ 45",
+            "author": "САДРИДДИН АЙНӢ",
+            "url": "https://raw.githubusercontent.com/meetmeonlinefree/ovak_video/refs/heads/main/yoddoshtho/guftori_45.mp3",
+            "image_url": "https://i.ytimg.com/vi/GBbCmx9_ff4/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4EgALoAooCDAgAEAEYciBdKD0wDw==&rs=AOn4CLBIPgsu1KK3wS1bRKtXubqgNDCn8w",
+            "description": "Асари Ёддоштҳо-и Садриддин Айнӣ яке аз муҳимтарин осори адабиёти тоҷик ба шумор меравад.",
+            "language": "tg",
+            "year": 2026,
+            "tags": [
+                "литература",
+                "аудиокнига"
+            ]
+        }
+    ]
 }
